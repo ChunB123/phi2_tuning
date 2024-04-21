@@ -1,4 +1,4 @@
-# Enhancing Small Language Models through Advanced Tuning Techniques
+# Enhancing Phi-2 through Advanced Tuning Techniques
 
 ## Project Overview
 
