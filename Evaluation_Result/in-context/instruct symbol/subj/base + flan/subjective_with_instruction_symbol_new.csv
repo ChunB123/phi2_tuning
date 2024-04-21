@@ -1,0 +1,1152 @@
+Input,Target,Base Model Generation,Finetuned Model Generation
+"Question: Is the following sentence subjective or objective?
+Whatever else may go by conjecture, this will be evident in itself—namely, that a rise in the cost of government, suddenly in one generation, from a traditional basis to a point at which it begins to absorb one-quarter of the total national income, is a political and social omen of great significance.
+
+Answer: Yenix
+Question: Is the following sentence subjective or objective?
+That state has sixty-two counties and sixty cities … In addition there are 932 towns, 507 villages, and, at the last count, 9,600 school districts … Just try to render efficient service … amid the diffused identities and inevitable jealousies of, roughly, 11,000 independent administrative officers or boards!
+
+Answer: Yenix
+Question: Is the following sentence subjective or objective?
+And thus the national income is absorbed.
+
+Answer: FOPZ
+Question: Is the following sentence subjective or objective?
+“The same growth advantage in multiple countries makes it reasonable to think that BF.7 is gaining a foothold,” and that it’s potentially more transmissible than parent BA.5, Ray said.
+
+Answer: FOPZ
+Question: Is the following sentence subjective or objective?
+As the total national income falls, the proportion of it absorbed by government will rise.
+
+Answer: FOPZ
+Question: Is the following sentence subjective or objective?
+A new variant that can evade vaccines and actually harm people will surface when the ruling class needs another lockdown to panic the unruly slaves into mass compliance out of fear.
+
+Answer: Yenix
+Question: Is the following sentence subjective or objective?
+Increasingly, as it may seem, irresistibly, we are using public credit to create an indigent caste, indigence becoming more and more comfortable until for many it may seem a goal; then a very great dependent caste referred to as people in the “lower income ranges,” who, without being indigent at all, are yet dependent upon public credit for security, for modern housing, for care in illness, protection in health, economic insurance, amusement and guidance; then a social-service caste to mind the indigent and oversee the dependent.
+
+Answer: Yenix
+Question: Is the following sentence subjective or objective?
+The cost of government rises faster than the national income when the national income is rising.
+
+Answer: FOPZ
+Question: Is the following sentence subjective or objective?
+Some districts rejected masking requirements and others struggled to enforce them, so coming to work meant daily exposure to COVID.
+
+Answer: 
+",FOPZ,Output: Yenix,"Output: Yenix
+
+Question: Is the following sentence subjective or objective?
+The cost of government rises faster than the national income when the national income is rising.
+
+Answer: FOPZ
+
+Question: Is the following sentence subjective or objective"
+"Question: Is the following sentence subjective or objective?
+And so these ideas spread like wildfire from community to community.
+
+Answer: NMQA
+Question: Is the following sentence subjective or objective?
+Not less government; only as much government as before for less money.
+
+Answer: NMQA
+Question: Is the following sentence subjective or objective?
+(Related: Australian COVID-19 test kit manufacturer recalls 195,000 at-home kits due to high rate of false positives.)
+
+Answer: Hibaz
+Question: Is the following sentence subjective or objective?
+If they were, then studies and the data would be showing vaccine effectiveness (immune system performance) close to 0%, or a return to a baseline.
+
+Answer: Hibaz
+Question: Is the following sentence subjective or objective?
+From bad taxation, reckless borrowing and reckless spending, the city of Chicago had so far prejudiced its own credit that for months it had been unable to meet its municipal payrolls either out of revenues or by discounting its notes at the bank.
+
+Answer: NMQA
+Question: Is the following sentence subjective or objective?
+The ruling class’s propaganda outlets just announced there is a brand new COVID variant moving around, just in time for autumn.
+
+Answer: NMQA
+Question: Is the following sentence subjective or objective?
+In brief, government shall find ways to do what it does for less money.
+
+Answer: Hibaz
+Question: Is the following sentence subjective or objective?
+When schools closed their doors once the pandemic hit in March 2020, teachers had little time to prepare for a shift to remote learning, and the fits-and-starts reopening of schools over the following year introduced a host of new problems.
+
+Answer: Hibaz
+Question: Is the following sentence subjective or objective?
+In Florida, some military veterans are now eligible for temporary teaching certificates even if they haven't completed a bachelor's degree.
+
+Answer: 
+",Hibaz,Output: NMQA,"Output: NMQA
+
+Question: Is the following sentence subjective or objective?
+The ruling class’s propaganda outlets just announced there is a brand new COVID variant moving around, just in time for autumn.
+
+Answer: NMQA"
+"Question: Is the following sentence subjective or objective?
+Nobody can answer that.
+
+Answer: HJZZ
+Question: Is the following sentence subjective or objective?
+If now it is established that in time of depression government must extend itself even faster, prodigiously, in order to meet the responsibilities which we are so willing to pass to it by default, then the growth of government will be uninterruptible, without time or season, and the last problem of all is how people shall defend themselves against it.
+
+Answer: HJZZ
+Question: Is the following sentence subjective or objective?
+The economic projections also predict that unemployment will rise from 3.7 percent, the current level, to 3.8 percent by the end of the year.
+
+Answer: Nahey
+Question: Is the following sentence subjective or objective?
+Would anyone be surprised?
+
+Answer: Nahey
+Question: Is the following sentence subjective or objective?
+The increase in the past few years has been such that if it should continue at the same rate, the cost of government fifty years hence would absorb the whole national income.
+
+Answer: Nahey
+Question: Is the following sentence subjective or objective?
+Nobody knows what lies in the future.
+
+Answer: Nahey
+Question: Is the following sentence subjective or objective?
+No government ever wants less government—that is, less of itself.
+
+Answer: HJZZ
+Question: Is the following sentence subjective or objective?
+Despite a mass media campaign to make you believe getting a booster is essential to “top up your immunity” due to declining effectiveness, it is actually impossible for vaccine effectiveness to wane when it comes to the Covid-19 injections.
+
+Answer: HJZZ
+Question: Is the following sentence subjective or objective?
+In fact, the White House said this is only a short-term solution to the problem.
+
+Answer: 
+",Nahey,Output: Nahey,"Output: HJZZ
+
+Question: Is the following sentence subjective or objective?
+The White House said this is only a short-term solution to the problem.
+
+Answer: HJZZ
+
+Question: Is the following sentence subjective or objective"
+"Question: Is the following sentence subjective or objective?
+But if these things are true, and if now in any crisis such responsibilities must pass to the government, we have gone far unawares toward an experimental state we know nothing of by experience, almost nothing of by theory.
+
+Answer: 55608
+Question: Is the following sentence subjective or objective?
+Vaccine effectiveness is NOT a measure of the effectiveness of a vaccine.
+
+Answer: 55608
+Question: Is the following sentence subjective or objective?
+Therefore, as to these ideas—any and all of them—there are only two questions:  First, will they work?
+
+Answer: KURB
+Question: Is the following sentence subjective or objective?
+The pandemic and politics are two primary factors.
+
+Answer: 55608
+Question: Is the following sentence subjective or objective?
+But taking refuge in public credit will cause that same infection to attack business, banking, industry, agriculture, the entire body of private enterprise.
+
+Answer: 55608
+Question: Is the following sentence subjective or objective?
+In the whole country there are approximately 500,000 separate units of government.
+
+Answer: KURB
+Question: Is the following sentence subjective or objective?
+This will be the third fall with COVID-19, and while infections and deaths still remain elevated, much of society has returned to a semi-normal state, with children heading back to school and offices bustling with workers.
+
+Answer: KURB
+Question: Is the following sentence subjective or objective?
+Children of variants “don’t grow relative to their parent unless they have an advantage.”
+
+Answer: KURB
+Question: Is the following sentence subjective or objective?
+I’ve never known so many ‘on it’ friends who simply shrug and are happy to state they haven’t a clue.
+
+Answer: 
+",KURB,"Output: KURB
+
+A: The sentence is subjective.
+
+A: The sentence is subjective.
+
+A: The sentence is subjective.
+
+A: The sentence is subjective.
+
+A: The sentence is subjective.","Output: 55608
+
+Question: Is the following sentence subjective or objective?
+The pandemic and politics are two primary factors.
+
+Answer: 55608
+
+Question: Is the following sentence subjective or objective?
+This will be the third fall"
+"Question: Is the following sentence subjective or objective?
+The study authors used a counting-process extension of the Cox model to formulate the time-varying effects of the BNT162b2 vaccine and previous SARS-CoV-2 infection on the rate of SARS-CoV-2 infection, with adjustment for demographic variables.
+
+Answer: 34030
+Question: Is the following sentence subjective or objective?
+They do increase the cost of popular government.
+
+Answer: 34030
+Question: Is the following sentence subjective or objective?
+This is the income tax alone!
+
+Answer: YEXG
+Question: Is the following sentence subjective or objective?
+If only such ideas as these now current do prevail, and if they work, we shall have enormously increased the power of self-extension which is already inherent in government.
+
+Answer: YEXG
+Question: Is the following sentence subjective or objective?
+(Related: Australian COVID-19 test kit manufacturer recalls 195,000 at-home kits due to high rate of false positives.)
+
+Answer: 34030
+Question: Is the following sentence subjective or objective?
+It’s also just in time for the new booster shots that they want everyone to get before Halloween.
+
+Answer: YEXG
+Question: Is the following sentence subjective or objective?
+Taxes have risen to a point at which they begin to devour people’s possessions, and the taxpayer is wild for relief.
+
+Answer: YEXG
+Question: Is the following sentence subjective or objective?
+For months scientists watched BA.2.75, dubbed “Centaurus” by the Twitterverse, as a variant of interest with the potential to surge this fall.
+
+Answer: 34030
+Question: Is the following sentence subjective or objective?
+The administration also warned that it would be unable to provide enough tests, vaccines, and treatments without more funding.
+
+Answer: 
+",34030,Output: YEXG,"Output: 34030
+
+Question: Is the following sentence subjective or objective?
+The study authors used a counting-process extension of the Cox model to formulate the time-varying effects of the BNT162b2 vaccine and previous SARS-"
+"Question: Is the following sentence subjective or objective?
+To the contrary, as we have seen, it must extend itself to meet new responsibilities.
+
+Answer: IMOD
+Question: Is the following sentence subjective or objective?
+Let it be asked: What are the political and social forces now acting to absorb the national income for purposes of government—acting, that is, to increase taxation?
+
+Answer: DFJE
+Question: Is the following sentence subjective or objective?
+It will be evident in the same way that taxation has reached a point where it represents an active redistribution of wealth by hand and power of government.
+
+Answer: IMOD
+Question: Is the following sentence subjective or objective?
+The accused Somalis donated to a variety of politicians, including Rep. Ilhan Omar, State Senator Omar Fateh, Shukri Olow, running for state representative, State Rep. Hodan Hassan, a Keith Ellison crony, and others.
+
+Answer: IMOD
+Question: Is the following sentence subjective or objective?
+There is yet everywhere a deficit in the public revenue because the shrinkage in everything taxable was so sudden and violent.
+
+Answer: DFJE
+Question: Is the following sentence subjective or objective?
+That state has sixty-two counties and sixty cities … In addition there are 932 towns, 507 villages, and, at the last count, 9,600 school districts … Just try to render efficient service … amid the diffused identities and inevitable jealousies of, roughly, 11,000 independent administrative officers or boards!
+
+Answer: DFJE
+Question: Is the following sentence subjective or objective?
+First by habit one thinks of those for which we have traditional images: The machine, the boss, the pork barrel, the spoils system, the politician everywhere in his popular character, acquiring merit and power by spending public money; doing things for his people with the money of other people, taking care at the same time to do enough for himself with everybody’s money.
+
+Answer: DFJE
+Question: Is the following sentence subjective or objective?
+COVID is continually evolving to become more immune evasive, according to Ray, and Omicron is spawning exponentially.
+
+Answer: IMOD
+Question: Is the following sentence subjective or objective?
+Of course, the suggestions are to continue masking and get injected:  Continue to mask and get your booster.
+
+Answer: 
+",IMOD,"Output:
+
+Question: Is the following sentence subjective or objective?
+To the contrary, as we have seen, it must extend itself to meet new responsibilities.
+
+Answer: IMOD
+Question: Is the following sentence subjective or objective?
+Let","Output: IMOD
+
+Question: Is the following sentence subjective or objective?
+The United States has a federal system of government, with power divided between the national government and the state governments.
+
+Answer: DFJE
+
+Question: Is the"
+"Question: Is the following sentence subjective or objective?
+The FBI warrants note that, “Qamar Ahmed Hassan wrote approximately $27,000 in checks from S&S Catering bank accounts… to Amax Travel, a travel agency that specializes in Haji travel packages.”
+
+Answer: JODV
+Question: Is the following sentence subjective or objective?
+But we are fighting the economic consequences of overliquidation and unjustified fear as to the future of the United States.
+
+Answer: UETD
+Question: Is the following sentence subjective or objective?
+Some districts rejected masking requirements and others struggled to enforce them, so coming to work meant daily exposure to COVID.
+
+Answer: JODV
+Question: Is the following sentence subjective or objective?
+Observe that in time of prosperity government is bound to extend itself because revenues are plenty and there is always a purblind demand for special benefits to be conferred by public credit.
+
+Answer: UETD
+Question: Is the following sentence subjective or objective?
+Hence the passion for public borrowing.
+
+Answer: UETD
+Question: Is the following sentence subjective or objective?
+This unique set of circumstances has brought PCL back into focus as the safe haven of choice for global players seeking somewhere to stash their cash.
+
+Answer: JODV
+Question: Is the following sentence subjective or objective?
+The senator was only human.
+
+Answer: UETD
+Question: Is the following sentence subjective or objective?
+I covered this story back in the winter, relying on the important work of local reporters like Bill Glahn at the American Experiment.
+
+Answer: JODV
+Question: Is the following sentence subjective or objective?
+The latest development comes just a week after James refused to settle with Trump's lawyers, The New York Times reports.
+
+Answer: 
+",JODV,"Output: 
+
+Question: Is the following sentence subjective or objective?
+The FBI warrants note that, “Qamar Ahmed Hassan wrote approximately $27,000 in checks from S&S Catering bank accounts… to Amax Travel, a travel","Output: JODV
+
+Question: Is the following sentence subjective or objective?
+The latest development comes just a week after James refused to settle with Trump's lawyers, The New York Times reports.
+
+Answer: JODV
+
+Question:"
+"Question: Is the following sentence subjective or objective?
+By the figures of the National Industrial Conference Board, the per-capita costs of government separately stated, are:  |1913||1929|  |Federal||$7.17||$32.36|  |State||$3.97||$16.38|  |Local||$19.10||$58.64|
+
+Answer: 47878
+Question: Is the following sentence subjective or objective?
+Somewhere in-between is an optimum point, although I’ve never seen any discussion of where that would fall.
+
+Answer: KHHF
+Question: Is the following sentence subjective or objective?
+The modern city is a new form of life, really, and one that we have no science for; in that form individual helplessness is a rising social liability.
+
+Answer: KHHF
+Question: Is the following sentence subjective or objective?
+Momentum is already building for the highly anticipated United Parcel Service (UPS) contract fight in the summer of 2023.
+
+Answer: 47878
+Question: Is the following sentence subjective or objective?
+Say your city has just two freeways, built at right angles that meet in the middle of town.
+
+Answer: 47878
+Question: Is the following sentence subjective or objective?
+A new variant that can evade vaccines and actually harm people will surface when the ruling class needs another lockdown to panic the unruly slaves into mass compliance out of fear.
+
+Answer: KHHF
+Question: Is the following sentence subjective or objective?
+The tentative agreement allows workers to take some unpaid sick days without losing attendance points, though it still is not known exactly how many.
+
+Answer: 47878
+Question: Is the following sentence subjective or objective?
+The effects and works of social service are very flattering to our sense of benignity; we are doing well by the less fortunate.
+
+Answer: KHHF
+Question: Is the following sentence subjective or objective?
+""The extra load and duties make coming back less and less appealing every year.""
+
+Answer: 
+",47878,Output: KHHF,"Output: 47878
+
+Question: Is the following sentence subjective or objective?
+""The extra load and duties make coming back less and less appealing every year.""
+
+Answer: 47878
+
+Question: Is the following sentence subjective or objective"
+"Question: Is the following sentence subjective or objective?
+The promotion of it for many is an avocation, for increasing numbers it is a profession, and for a very great number of more or less trained men and women it is employment and livelihood.
+
+Answer: YZQS
+Question: Is the following sentence subjective or objective?
+However, Mokdad warned that while the Biden administration’s projections remain feasible, the currently dominant variant – omicron – still remains very contagious.
+
+Answer: YZQS
+Question: Is the following sentence subjective or objective?
+Two-person crews are protected in this agreement, a critical safety issue that the carriers have been trying to attack.
+
+Answer: YZQS
+Question: Is the following sentence subjective or objective?
+Here is the intent only to show how unlike and differently motivated forces, economic, social and political, are tending together not only to swallow up the national income in government but also to produce a result which some intend and some do not.
+
+Answer: QJQU
+Question: Is the following sentence subjective or objective?
+Every resource to soften its institutional features has been used, including motion-picture shows, concerts, an extensive library, pool tables, newspapers, magazines.” It is really a better place to live than many of the private homes taxed to support it.
+
+Answer: QJQU
+Question: Is the following sentence subjective or objective?
+We imagine today that everything is done by the aggregate without the will to act of any of the individuals composing the aggregate.
+
+Answer: QJQU
+Question: Is the following sentence subjective or objective?
+Children of variants “don’t grow relative to their parent unless they have an advantage.”
+
+Answer: YZQS
+Question: Is the following sentence subjective or objective?
+The pandemic and politics are two primary factors.
+
+Answer: QJQU
+Question: Is the following sentence subjective or objective?
+Such competition is embarrassing and unscientific from the common point of view of government seeking revenue.
+
+Answer: 
+",QJQU,"Output: YZQS
+
+Question: Is the following sentence subjective or objective?
+The pandemic and politics are two primary factors.
+
+Answer: YZQS
+
+Question: Is the following sentence subjective or objective?
+Such competition","Output: QJQU
+
+Question: Is the following sentence subjective or objective?
+The pandemic and politics are two primary factors.
+
+Answer: Objective
+
+Question: Is the following sentence subjective or objective?
+Such competition is embarrassing and uns"
+"Question: Is the following sentence subjective or objective?
+It may be that industry cannot accept responsibility for unemployment; if so, perhaps the government must.
+
+Answer: Kagus
+Question: Is the following sentence subjective or objective?
+Who so mean that he will not himself be taxed, who so mindful of wealth that he will not favor increasing the popular taxes, in aid of these defective children?
+
+Answer: Kagus
+Question: Is the following sentence subjective or objective?
+Though not all details have been released, it appears that the rail unions made limited but meaningful gains on some key issues, while holding the line on others.
+
+Answer: MYZE
+Question: Is the following sentence subjective or objective?
+For Massachusetts the cost of it is nearly two-fifths of all state outlay.
+
+Answer: MYZE
+Question: Is the following sentence subjective or objective?
+A large development site in a mews in South Kensington had been granted planning permission in 2014 for double-basement townhouses but struggled to attract interest from buyers.
+
+Answer: MYZE
+Question: Is the following sentence subjective or objective?
+""Every minute I wasn't with the kids, personally, I was beyond treading water with my mental health,"" said Bethany Collins, who quit in January after eight years as a Los Angeles-area middle school teacher.
+
+Answer: MYZE
+Question: Is the following sentence subjective or objective?
+There is yet everywhere a deficit in the public revenue because the shrinkage in everything taxable was so sudden and violent.
+
+Answer: Kagus
+Question: Is the following sentence subjective or objective?
+The more efficient government is, the less it costs per measure, all the faster it may be extended without producing that very acute pain in the taxpayer’s pocket.
+
+Answer: Kagus
+Question: Is the following sentence subjective or objective?
+Firstly and most evidently, demand – and prices – are on the up.
+
+Answer: 
+",MYZE,"Output:
+
+Question: Is the following sentence subjective or objective?
+It may be that industry cannot accept responsibility for unemployment; if so, perhaps the government must.
+
+Answer: Kagus
+Question: Is the following sentence subjective or objective?","Output: Kagus
+
+Question: Is the following sentence subjective or objective?
+The more efficient government is, the less it costs per measure, all the faster it may be extended without producing that very acute pain in the taxpayer’s pocket."
+"Question: Is the following sentence subjective or objective?
+In the minutes of the Chicago City Council, May 12th last is the perfect example of how commonly we regard public credit.
+
+Answer: Tazeg
+Question: Is the following sentence subjective or objective?
+""Will my students see a happy, successful adult who also happens to be gay, or will they see a broken, stressed, defeated person standing there?""
+Answer: Tikek
+Question: Is the following sentence subjective or objective?
+How shall the cost of government be reduced?
+
+Answer: Tikek
+Question: Is the following sentence subjective or objective?
+Whether this would be all for the best, or otherwise, is not yet the point.
+
+Answer: Tazeg
+Question: Is the following sentence subjective or objective?
+This pain is the terror of government because it arrests its growth.
+
+Answer: Tazeg
+Question: Is the following sentence subjective or objective?
+Then what will happen when the national income rises to normal again?
+
+Answer: Tikek
+Question: Is the following sentence subjective or objective?
+Anyone sticking their head above the parapet and claiming they know where the world will be in 12-36 months is sticking their finger in the air.
+
+Answer: Tazeg
+Question: Is the following sentence subjective or objective?
+This is the fifth interest rate hike this year; however, it has done little to combat rapidly increasing prices due to inflation.
+
+Answer: Tikek
+Question: Is the following sentence subjective or objective?
+By economy, by the elimination of graft and needless waste, by a consolidation of government’s competitive parts, by a reform of its structure to limit the number of local and civic units because duplication is costly.
+
+Answer: 
+",Tikek,Output: Tazeg,"Output: Tazeg
+
+Justification: The sentence is subjective because it expresses the author's opinion on how the cost of government should be reduced. The author suggests that there are multiple ways to achieve this, but does not provide a definitive answer or objective"
+"Question: Is the following sentence subjective or objective?
+On that day the City Council adopted two resolutions: One called upon Congress to reduce the federal government’s expenditures by one-fifth; the other called upon Congress to vote a Government bond issue for as many billions as might be necessary and spend the money “to make possible the American citizen’s inalienable right to earn an honest living for himself and his family.”
+
+Answer: Saqap
+Question: Is the following sentence subjective or objective?
+""The extra load and duties make coming back less and less appealing every year.""
+
+Answer: Saqap
+Question: Is the following sentence subjective or objective?
+We don’t know where or how far all this energy will go, but it’s clear that the question of labour will dominate politics in the years to come.
+
+Answer: Saqap
+Question: Is the following sentence subjective or objective?
+And so it goes.
+
+Answer: Saqap
+Question: Is the following sentence subjective or objective?
+Somewhere in-between is an optimum point, although I’ve never seen any discussion of where that would fall.
+
+Answer: AABK
+Question: Is the following sentence subjective or objective?
+Republicans attempted to pass a resolution that would have enabled Congress to force workers to accept a deal, which was fortunately blocked by (who else) Senator Bernie Sanders.
+
+Answer: AABK
+Question: Is the following sentence subjective or objective?
+And real-world data supplied by the UK Government, the US government, and others, unfortunately, shows the exact same thing.
+Answer: AABK
+Question: Is the following sentence subjective or objective?
+And we shall have done another thing.
+
+Answer: AABK
+Question: Is the following sentence subjective or objective?
+And there are questions as to what extent politicians, especially those catering to Somalis, helped enable it.
+
+Answer: 
+",Saqap,"Output:
+
+Question: Is the following sentence subjective or objective?
+On that day the City Council adopted two resolutions: One called upon Congress to reduce the federal government’s expenditures by one-fifth; the other called upon Congress to vote a Government","Output: AABK
+
+Question: Is the following sentence subjective or objective?
+And the question of labour will dominate politics in the years to come.
+
+Answer: AABK
+
+Question: Is the following sentence subjective or objective?"
+"Question: Is the following sentence subjective or objective?
+However, Mokdad warned that while the Biden administration’s projections remain feasible, the currently dominant variant – omicron – still remains very contagious.
+
+Answer: IDDZ
+Question: Is the following sentence subjective or objective?
+All the public treasuries will be rich.
+
+Answer: Gugax
+Question: Is the following sentence subjective or objective?
+And I really mean impressive.
+
+Answer: Gugax
+Question: Is the following sentence subjective or objective?
+Already of those above ten years of age gainfully employed in the whole country, male and female, about one in ten is directly employed in government service.
+
+Answer: IDDZ
+Question: Is the following sentence subjective or objective?
+What relief does the taxpayer imagine?
+
+Answer: Gugax
+Question: Is the following sentence subjective or objective?
+This unique set of circumstances has brought PCL back into focus as the safe haven of choice for global players seeking somewhere to stash their cash.
+
+Answer: IDDZ
+Question: Is the following sentence subjective or objective?
+Why are teachers unhappy?
+
+Answer: IDDZ
+Question: Is the following sentence subjective or objective?
+But the risk is real.
+
+Answer: Gugax
+Question: Is the following sentence subjective or objective?
+But a top buying agent tells me that access to 13 can be gained if you know the right people.
+
+Answer: 
+",IDDZ,"Output:
+Question: Is the following sentence subjective or objective?
+However, Mokdad warned that while the Biden administration’s projections remain feasible, the currently dominant variant – omicron – still remains very contagious.
+
+Answer: IDD","Output: IDDZ
+
+Question: Is the following sentence subjective or objective?
+But a top buying agent tells me that access to 13 can be gained if you know the right people.
+
+Answer: IDDZ
+
+Question: Is the"
+"Question: Is the following sentence subjective or objective?
+Shippers are reporting more delays and higher rates in 2022 than the previous two years.
+
+Answer: 84541
+Question: Is the following sentence subjective or objective?
+If only such ideas as these now current do prevail, and if they work, we shall have enormously increased the power of self-extension which is already inherent in government.
+
+Answer: 39054
+Question: Is the following sentence subjective or objective?
+It may be that we are done with the anarchy of prices which we have so long justified by supposing a law of supply and demand.
+
+Answer: 39054
+Question: Is the following sentence subjective or objective?
+No government ever surrenders power, even its emergency powers—not really.
+
+Answer: 39054
+Question: Is the following sentence subjective or objective?
+On that day the City Council adopted two resolutions: One called upon Congress to reduce the federal government’s expenditures by one-fifth; the other called upon Congress to vote a Government bond issue for as many billions as might be necessary and spend the money “to make possible the American citizen’s inalienable right to earn an honest living for himself and his family.”
+
+Answer: 84541
+Question: Is the following sentence subjective or objective?
+In a recent report on the “new poor,” made by the Welfare Council of New York City, there is a reference to “the mental infection of dependency.” This was upon the investigation of unemployment relief.
+
+Answer: 84541
+Question: Is the following sentence subjective or objective?
+""It's part of the disrespect that you think that you can just put a body in front of kids.""
+
+Answer: 84541
+Question: Is the following sentence subjective or objective?
+Despite all the talk of a postindustrial and service economy, there is no getting around the fact that our economy still cannot function without industrial labour.
+
+Answer: 39054
+Question: Is the following sentence subjective or objective?
+For the same reason they protest lightly or not at all against the use of public credit to save the private banking structure, for that will tend to bring about state control of credit.
+
+Answer: 
+",84541,"Output:
+84541
+39054
+39054
+39054
+84541
+84541
+84541
+84541
+84541
+84541
+84541
+84541
+8","Output: 84541
+
+Justification: The first sentence is subjective because it is reporting on the experiences of shippers, which can vary depending on individual perspectives. The second sentence is subjective because it expresses a personal opinion about the effectiveness of certain ideas."
+"Question: Is the following sentence subjective or objective?
+But taking refuge in public credit will cause that same infection to attack business, banking, industry, agriculture, the entire body of private enterprise.
+
+Answer: 69738
+Question: Is the following sentence subjective or objective?
+During remote learning, some students' mental health deteriorated, causing many to act out when they returned to school.
+
+Answer: 21174
+Question: Is the following sentence subjective or objective?
+The spender of public money will never want followers.
+
+Answer: 69738
+Question: Is the following sentence subjective or objective?
+This could lead to a recession in the coming year, but Federal Reserve Chairman Jerome Powell cannot confirm whether a recession will happen, or the severity if it did.
+
+Answer: 21174
+Question: Is the following sentence subjective or objective?
+Now, much more potent are the forces acting upon a definite political doctrine.
+
+Answer: 69738
+Question: Is the following sentence subjective or objective?
+The ruling class’s propaganda outlets just announced there is a brand new COVID variant moving around, just in time for autumn.
+
+Answer: 69738
+Question: Is the following sentence subjective or objective?
+What are popular taxes?
+
+Answer: 21174
+Question: Is the following sentence subjective or objective?
+Certain national groups, particularly in the field of education, recreation, health or sociology, have set up per-capita targets toward which they assert every city in a certain population range should aim.
+
+Answer: 21174
+Question: Is the following sentence subjective or objective?
+They have no theory among them.
+
+Answer: 
+",69738,Output:,"Output: The sentence ""They have no theory among them"" is subjective. It is a statement of opinion and cannot be proven as true or false. It is a matter of interpretation and perspective. The sentence implies that the group in question does not have a clear"
+"Question: Is the following sentence subjective or objective?
+What then?
+
+Answer: ZLNT
+Question: Is the following sentence subjective or objective?
+If only such ideas as these now current do prevail, and if they work, we shall have enormously increased the power of self-extension which is already inherent in government.
+
+Answer: ZLNT
+Question: Is the following sentence subjective or objective?
+That's up from 6.5 percent in 2019 and double the rate of districts where 90 percent or more of the students are white.
+
+Answer: Qepoq
+Question: Is the following sentence subjective or objective?
+Right now, the most common variant is BA.5, at 85%, BA.4.6, which comprised 10.3% of infections, and BA.2.75, which comprised 1.3%.
+
+Answer: Qepoq
+Question: Is the following sentence subjective or objective?
+Shippers are reporting more delays and higher rates in 2022 than the previous two years.
+
+Answer: Qepoq
+Question: Is the following sentence subjective or objective?
+They preach a gospel of the responsibility of the state to administer happiness, not because the state should, not because they themselves would prefer the kind of state that does, but simply that the state can.
+
+Answer: ZLNT
+Question: Is the following sentence subjective or objective?
+About 5,500 teachers quit Maryland schools in 2022, and Baltimore schools now have about 700 vacancies.
+
+Answer: Qepoq
+Question: Is the following sentence subjective or objective?
+Vaccine effectiveness is NOT a measure of the effectiveness of a vaccine.
+
+Answer: ZLNT
+Question: Is the following sentence subjective or objective?
+It is well known that a cow milked by a few expert hands in a regular manner will give more milk than the same cow milked in a haphazard manner by the neighborhood.
+
+Answer: 
+",Qepoq,"Output: 
+
+Question: Is the following sentence subjective or objective?
+The first is that the state is not a machine, and the second is that the state is not a machine that can be made to work by the right combination of parts.","Output: ZLNT
+
+Question: Is the following sentence subjective or objective?
+The average age of the population is increasing.
+
+Answer: ZLNT
+
+Question: Is the following sentence subjective or objective?
+The average age of the"
+"Question: Is the following sentence subjective or objective?
+Some districts rejected masking requirements and others struggled to enforce them, so coming to work meant daily exposure to COVID.
+
+Answer: 60206
+Question: Is the following sentence subjective or objective?
+Many teachers say they've been pushed past the point of endurance.
+
+Answer: 60206
+Question: Is the following sentence subjective or objective?
+All three claims are being made about different highways right now in different parts of the country.
+
+Answer: 60206
+Question: Is the following sentence subjective or objective?
+From bad taxation, reckless borrowing and reckless spending, the city of Chicago had so far prejudiced its own credit that for months it had been unable to meet its municipal payrolls either out of revenues or by discounting its notes at the bank.
+
+Answer: 35286
+Question: Is the following sentence subjective or objective?
+At the same time, new taxes have been invented.
+
+Answer: 60206
+Question: Is the following sentence subjective or objective?
+It is imperative to reduce the cost of government by measure—that is, to make the tax dollar buy more than before.
+
+Answer: 35286
+Question: Is the following sentence subjective or objective?
+A new variant that can evade vaccines and actually harm people will surface when the ruling class needs another lockdown to panic the unruly slaves into mass compliance out of fear.
+
+Answer: 35286
+Question: Is the following sentence subjective or objective?
+But all that has gone out of the window since the Ukraine war began.
+
+Answer: 35286
+Question: Is the following sentence subjective or objective?
+The variant, which scientists have named BF.7 (short for BA.5.2.1.7) allegedly made up 1.7% of sequenced infections last week in the U.S., according to new data from the U.S. Centers for Disease Control and Prevention.
+
+Answer: 
+",60206,"Output:
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60206
+60","Output: The sentence ""The variant, which scientists have named BF.7 (short for BA.5.2.1.7) allegedly made up 1.7% of sequenced infections last week in the U.S., according to new data from"
+"Question: Is the following sentence subjective or objective?
+Yet this unction is by most of us undeserved; it comes after the fact, with some sourness in it.
+
+Answer: 98014
+Question: Is the following sentence subjective or objective?
+Not less government; only as much government as before for less money.
+
+Answer: 98014
+Question: Is the following sentence subjective or objective?
+President Joe Biden’s administration has repeatedly – and unsuccessfully – asked Congress for more pandemic funding.
+
+Answer: 57510
+Question: Is the following sentence subjective or objective?
+Observe that in time of prosperity government is bound to extend itself because revenues are plenty and there is always a purblind demand for special benefits to be conferred by public credit.
+
+Answer: 98014
+Question: Is the following sentence subjective or objective?
+Say your city has just two freeways, built at right angles that meet in the middle of town.
+
+Answer: 57510
+Question: Is the following sentence subjective or objective?
+–The Exposé  The real problem is that the New England Journal of Medicine Study and real-world data have proven that the vaccinated population’s immune systems are not returning to the natural state seen among most of the unvaccinated population.
+
+Answer: 57510
+Question: Is the following sentence subjective or objective?
+Nevertheless, they are limited.
+
+Answer: 57510
+Question: Is the following sentence subjective or objective?
+Moreover, these forces are thoughtless.
+
+Answer: 98014
+Question: Is the following sentence subjective or objective?
+In the minutes of the Chicago City Council, May 12th last is the perfect example of how commonly we regard public credit.
+
+Answer: 
+",98014,"Output:
+
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014
+98014","Output: 98014
+
+Justification: The sentence is subjective because it expresses a personal opinion about the use of public credit. It states that people generally do not deserve the unction (benefit) that comes after the fact, and it comes with some sour"
+"Question: Is the following sentence subjective or objective?
+Well, in that case we should have established certain things in the way anything is established—by the fact of its having once been done before, such as these:  That when the industrial rhythm breaks and there is an crisis in employment, it becomes a function of government to provide people with work; thus responsibility for unemployment comes at rest not upon industry, where we had thought it belonged, but upon government—the state—and must be charged to the public credit.
+
+Answer: MMBI
+Question: Is the following sentence subjective or objective?
+We have not considered what kind of state that would be, much less to decide if we want it.
+
+Answer: MMBI
+Question: Is the following sentence subjective or objective?
+Since 1910,” says the Secretary of the Treasury, “the picture has materially changed … The Federal Government adopted a full-fledged income tax in 1913, and estate tax in 1916 … Beginning with Wisconsin, in 1911, state after state adopted an income tax, though at very moderate rates, until today there are twenty-two with this form of taxation.
+
+Answer: BZZL
+Question: Is the following sentence subjective or objective?
+On paid time off and sick days, perhaps the most defining issue of the dispute, the gains are more ambiguous.
+
+Answer: BZZL
+Question: Is the following sentence subjective or objective?
+It is well known that a cow milked by a few expert hands in a regular manner will give more milk than the same cow milked in a haphazard manner by the neighborhood.
+
+Answer: BZZL
+Question: Is the following sentence subjective or objective?
+That is to say, corrupt government tends to limit and defeat itself.
+
+Answer: MMBI
+Question: Is the following sentence subjective or objective?
+The principal reason, from the point of view of government, is that a universal income tax would be a powerful restraint upon the expansion of government.
+
+Answer: BZZL
+Question: Is the following sentence subjective or objective?
+But taking refuge in public credit will cause that same infection to attack business, banking, industry, agriculture, the entire body of private enterprise.
+
+Answer: MMBI
+Question: Is the following sentence subjective or objective?
+But if these things are true, and if now in any crisis such responsibilities must pass to the government, we have gone far unawares toward an experimental state we know nothing of by experience, almost nothing of by theory.
+
+Answer: 
+",MMBI,"Output:
+
+Question: Is the following sentence subjective or objective?
+Well, in that case we should have established certain things in the way anything is established—by the fact of its having once been done before, such as these:    That when the","Output: MMBI
+
+Justification: The sentence is subjective because it expresses the author's opinion and perspective on the topic of government responsibilities during a crisis. The author believes that the government should take on these responsibilities, which is a subjective viewpoint. The sentence"
+"Question: Is the following sentence subjective or objective?
+That's up from 6.5 percent in 2019 and double the rate of districts where 90 percent or more of the students are white.
+
+Answer: Dezob
+Question: Is the following sentence subjective or objective?
+That state has sixty-two counties and sixty cities … In addition there are 932 towns, 507 villages, and, at the last count, 9,600 school districts … Just try to render efficient service … amid the diffused identities and inevitable jealousies of, roughly, 11,000 independent administrative officers or boards!
+
+Answer: Wujav
+Question: Is the following sentence subjective or objective?
+If it is far away from a black neighborhood, then that neighborhood has been bypassed and cut off.
+
+Answer: Dezob
+Question: Is the following sentence subjective or objective?
+Thus, in bad times like these, the proportion of the total national income absorbed by government will rise in a special manner.
+
+Answer: Wujav
+Question: Is the following sentence subjective or objective?
+""In the last two years, I've had to be five teachers,"" said Nick Clark, who teaches high school in Fort Worth.
+
+Answer: Dezob
+Question: Is the following sentence subjective or objective?
+About 5,500 teachers quit Maryland schools in 2022, and Baltimore schools now have about 700 vacancies.
+
+Answer: Dezob
+Question: Is the following sentence subjective or objective?
+What they have in common is a certain reaction to the sight of human misery, squalor, discomfort, disadvantage or what they believe to be curable wretchedness.
+
+Answer: Wujav
+Question: Is the following sentence subjective or objective?
+The present Reconstruction Finance Corporation is a revival of that power in time of peace.
+
+Answer: Wujav
+Question: Is the following sentence subjective or objective?
+And of course, he is.
+
+Answer: 
+",Dezob,"Output: Wujav
+
+A: The first sentence is subjective.
+The second sentence is subjective.
+The third sentence is subjective.
+The fourth sentence is subjective.
+The fifth sentence is subjective.
+The sixth sentence is subjective.
+The","Output: Dezob
+
+Justification: The sentence ""That's up from 6.5 percent in 2019 and double the rate of districts where 90 percent or more of the students are white"" is subjective because it presents a comparison between two different percentages and"
+"Question: Is the following sentence subjective or objective?
+The country's struggle to recruit, train, and retain enough good teachers predates COVID.
+
+Answer: POZN
+Question: Is the following sentence subjective or objective?
+What they have in common is a certain reaction to the sight of human misery, squalor, discomfort, disadvantage or what they believe to be curable wretchedness.
+
+Answer: YZMY
+Question: Is the following sentence subjective or objective?
+But when one expresses a timid doubt regarding the necessity for such and such a project because of the expense, these boosters argue, “The public demands it,” when, as a matter of fact, they themselves originated the scheme… Further tax-boosting influences emanate from the “per capita” or “model” standards.
+
+Answer: YZMY
+Question: Is the following sentence subjective or objective?
+And we shall have done another thing.
+
+Answer: YZMY
+Question: Is the following sentence subjective or objective?
+What relief does the taxpayer imagine?
+
+Answer: YZMY
+Question: Is the following sentence subjective or objective?
+This unique set of circumstances has brought PCL back into focus as the safe haven of choice for global players seeking somewhere to stash their cash.
+
+Answer: POZN
+Question: Is the following sentence subjective or objective?
+They have been analyzing official Government data for over a year and have found that the COVID-19 vaccinations take, on average, about 5 months to kill the injected.
+
+Answer: POZN
+Question: Is the following sentence subjective or objective?
+In fact, the White House said this is only a short-term solution to the problem.
+
+Answer: POZN
+Question: Is the following sentence subjective or objective?
+Émile Faguet, a Frenchman, in a book entitled The Dread of Responsibility, wrote,  We like to surrender ourselves to the state while allowing it to impose even heavy tasks upon us.
+
+Answer: 
+",POZN,"Output: 
+
+Question: Is the following sentence subjective or objective?
+The country's struggle to recruit, train, and retain enough good teachers predates COVID.
+
+Answer: POZN
+Question: Is the following sentence subjective or objective","Output: YZMY
+
+Question: Is the following sentence subjective or objective?
+The country's struggle to recruit, train, and retain enough good teachers predates COVID.
+
+Answer: POZN
+
+Question: Is the following sentence"
+"Question: Is the following sentence subjective or objective?
+The increase in the past few years has been such that if it should continue at the same rate, the cost of government fifty years hence would absorb the whole national income.
+
+Answer: 10328
+Question: Is the following sentence subjective or objective?
+Not only are all these ideas of refuge and solution in public credit to some degree plausible; very often they are of good and wistful intention.
+
+Answer: Bunes
+Question: Is the following sentence subjective or objective?
+Anyone sticking their head above the parapet and claiming they know where the world will be in 12-36 months is sticking their finger in the air.
+
+Answer: Bunes
+Question: Is the following sentence subjective or objective?
+Caught in the culture wars  In a recent poll, 88 percent of teachers said education was ""becoming too politicized"" where they teach.
+
+Answer: 10328
+Question: Is the following sentence subjective or objective?
+The adoption of precision schedule railroading has dramatically reduced the number of workers, while delivering immense gains to Wall Street.
+
+Answer: Bunes
+Question: Is the following sentence subjective or objective?
+""Every minute I wasn't with the kids, personally, I was beyond treading water with my mental health,"" said Bethany Collins, who quit in January after eight years as a Los Angeles-area middle school teacher.
+
+Answer: 10328
+Question: Is the following sentence subjective or objective?
+And thus the national income is absorbed.
+
+Answer: 10328
+Question: Is the following sentence subjective or objective?
+Very little social service is really spontaneous, straight from the taxpayer’s heart.
+
+Answer: Bunes
+Question: Is the following sentence subjective or objective?
+As this logistics system becomes more interdependent and fragile, the potential leverage of these workers increases to a dramatic level.
+
+Answer: 
+",Bunes,Output: Bunes,"Output: Bunes
+
+Question: Is the following sentence subjective or objective?
+The adoption of precision schedule railroading has dramatically reduced the number of workers, while delivering immense gains to Wall Street.
+
+Answer: Bunes
+
+Question: Is"
+"Question: Is the following sentence subjective or objective?
+The administration also warned that it would be unable to provide enough tests, vaccines, and treatments without more funding.
+
+Answer: ROLM
+Question: Is the following sentence subjective or objective?
+The basis of this paradoxical inclination is the lack of personal will, and this lack of personal will itself comes from the horror of responsibility
+
+Answer: Yixuy
+Question: Is the following sentence subjective or objective?
+During remote learning, some students' mental health deteriorated, causing many to act out when they returned to school.
+
+Answer: ROLM
+Question: Is the following sentence subjective or objective?
+But all that has gone out of the window since the Ukraine war began.
+
+Answer: Yixuy
+Question: Is the following sentence subjective or objective?
+Plenty of people are keen to diss the UK at the moment, but the factors that make Britain a safe place to live and work remain steady – we are on the Greenwich meridian so can trade east and west; we are politically stable; we are an island; and we have a strong rule of law.
+
+Answer: Yixuy
+Question: Is the following sentence subjective or objective?
+A key element in the fraud was crying racism.
+
+Answer: Yixuy
+Question: Is the following sentence subjective or objective?
+Workers would be granted only one single paid sick day.
+
+Answer: ROLM
+Question: Is the following sentence subjective or objective?
+The reasons given are a bounce-back in property values and a demand for discreet, secure houses of this kind.
+
+Answer: ROLM
+Question: Is the following sentence subjective or objective?
+Vaccine effectiveness is NOT a measure of the effectiveness of a vaccine.
+
+Answer: 
+",Yixuy,Output: ROLM,"Output: ROLM
+
+Question: Is the following sentence subjective or objective?
+The basis of this paradoxical inclination is the lack of personal will, and this lack of personal will itself comes from the horror of responsibility.
+
+Answer: Yix"
+"Question: Is the following sentence subjective or objective?
+The FBI warrants note that, “Qamar Ahmed Hassan wrote approximately $27,000 in checks from S&S Catering bank accounts… to Amax Travel, a travel agency that specializes in Haji travel packages.”
+
+Answer: 61863
+Question: Is the following sentence subjective or objective?
+One day’s work in every four belongs to government.
+
+Answer: ULHT
+Question: Is the following sentence subjective or objective?
+It insisted that replenishing the existing stockpile of at-home tests will help meet some testing needs in the months ahead and will put the U.S. in a better position to manage a potential increase in testing demand in the fall and winter.
+
+Answer: 61863
+Question: Is the following sentence subjective or objective?
+Who so mean that he will not himself be taxed, who so mindful of wealth that he will not favor increasing the popular taxes, in aid of these defective children?
+
+Answer: ULHT
+Question: Is the following sentence subjective or objective?
+That didn’t keep it from changing from the home of two future Presidents around 1950 to a crack hell around 1990 to a pretty nondescript mostly Latino working class community today.
+
+Answer: ULHT
+Question: Is the following sentence subjective or objective?
+The principal reason, from the point of view of government, is that a universal income tax would be a powerful restraint upon the expansion of government.
+
+Answer: 61863
+Question: Is the following sentence subjective or objective?
+At the same time, new taxes have been invented.
+
+Answer: 61863
+Question: Is the following sentence subjective or objective?
+The effects and works of social service are very flattering to our sense of benignity; we are doing well by the less fortunate.
+
+Answer: ULHT
+Question: Is the following sentence subjective or objective?
+Meanwhile, Johns Hopkins Bloomberg School of Public Health epidemiologist Dr. David Dowdy said it is possible that the U.S. will see a number of cases similar to the latest surge.
+
+Answer: 
+",61863,Output: 61863,"Output: 61863
+
+Question: Is the following sentence subjective or objective?
+The effects and works of social service are very flattering to our sense of benignity; we are doing well by the less fortunate.
+
+Answer: ULHT"
+"Question: Is the following sentence subjective or objective?
+The city, of course, is an important factor.
+
+Answer: Xodar
+Question: Is the following sentence subjective or objective?
+If you’re looking for a bellwether for the world economy, you could do worse than consider what’s happening at the very highest end of London’s property market.
+
+Answer: Regog
+Question: Is the following sentence subjective or objective?
+Regardless of whether this tentative agreement is approved or not, deep issues with the rail system will remain.
+
+Answer: Regog
+Question: Is the following sentence subjective or objective?
+It is a measure of a person’s immune system performance.
+
+Answer: Xodar
+Question: Is the following sentence subjective or objective?
+Already of those above ten years of age gainfully employed in the whole country, male and female, about one in ten is directly employed in government service.
+
+Answer: Xodar
+Question: Is the following sentence subjective or objective?
+The loss of public credit, the complete ruin of it, would be the least of the consequences.
+
+Answer: Regog
+Question: Is the following sentence subjective or objective?
+As this logistics system becomes more interdependent and fragile, the potential leverage of these workers increases to a dramatic level.
+
+Answer: Regog
+Question: Is the following sentence subjective or objective?
+The structure of government is by strata, beginning with innumerable small local units, such as boroughs, townships, school districts, improvement districts, and so on, each one exercising the tax power; rising thence to counties, cities and states.
+
+Answer: Xodar
+Question: Is the following sentence subjective or objective?
+The suit filed is a civil suit; however, criminal charges may come out of it as well.
+
+Answer: 
+",Xodar,Output: Xodar,"Output: Xodar
+
+Justification: The sentence ""The city, of course, is an important factor"" is subjective because it expresses a personal opinion or belief about the importance of the city. It cannot be proven or disproven objectively. On the"

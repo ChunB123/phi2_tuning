@@ -1,0 +1,1876 @@
+Input,Target,Base Model Generation,Finetuned Model Generation
+"Input: ''
+Output: '110'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '0000'
+Output: ''
+
+Input: '100'
+Output:",'00',"Output: '110'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '0000'
+Output: ''
+
+Input: '100'
+Output:
+Output: '101'
+
+Input: '1010'
+Output:
+Output: '1011'
+
+Input: '10101'
+Output:
+Output: '10110'
+
+Input: '1010101'
+Output","Output: '110'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '0000'
+Output: ''
+
+Input: '100'
+Output:
+Output: '110'
+
+Input: '101'
+Output:
+Output: '110'
+
+Input: '111'
+Output:
+Output: '110'
+
+Input: '000'
+Output:
+Output: ''"
+"Input: '0'
+Output: '0'
+
+Input: '01'
+Output: '1'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '1010'
+Output:",'0',"Output: '0'
+
+Input: '01'
+Output: '1'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '1010'
+Output:
+Output: '10'
+
+Input: '1101'
+Output:
+Output: '11'
+
+Input: '0000'
+Output: '0'
+
+Input: '1111'
+Output: '1'
+
+Input:","Output: '0'
+
+Input: '01'
+Output: '1'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '1010'
+Output:
+Output: '10'
+
+Input: '1101'
+Output:
+Output: '11'
+
+Input: '1111'
+Output:
+Output: '1'
+
+Input: '0000'
+Output: '0'"
+"Input: ''
+Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '0'
+Output: ''
+
+Input: '00000'
+Output: '0'
+
+Input: '100'
+Output:",'0',"Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '0'
+Output: ''
+
+Input: '00000'
+Output: '0'
+
+Input: '100'
+Output:
+Output: '1'
+
+Input: '101'
+Output:
+Output: '1'
+
+Input: '11'
+Output:
+Output: '1'
+
+Input: '111'
+Output:
+Output: '1","Output: '1'
+
+Input: '00'
+Output: '0'
+
+Input: '0'
+Output: ''
+
+Input: '00000'
+Output: '0'
+
+Input: '100'
+Output:
+Output: '1'
+
+Input: '101'
+Output:
+Output: '1'
+
+Input: '1101'
+Output:
+Output: '1'
+
+Input: '1111'
+Output:
+Output: '"
+"Input: '00'
+Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '100'
+Output:",'01',"Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '100'
+Output:
+Output: '01'
+
+Input: '101'
+Output: '01'
+
+Input: '111'
+Output: '01'
+
+Input: '1000'
+Output: '01'
+
+Input: '1001'","Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '100'
+Output:
+Output: '01'
+
+Input: '101'
+Output: '01'
+
+Input: '111'
+Output: '01'
+
+Input: '000'
+Output: ''
+
+Input: '000'
+Output:"
+"Input: ''
+Output: '01'
+
+Input: '1'
+Output: '0'
+
+Input: '11'
+Output: ''
+
+Input: '10'
+Output: '1'
+
+Input: '00'
+Output: '1'
+
+Input: '000'
+Output:",'1',"Output: '01'
+
+Input: '1'
+Output: '0'
+
+Input: '11'
+Output: ''
+
+Input: '10'
+Output: '1'
+
+Input: '00'
+Output: '1'
+
+Input: '000'
+Output:
+Output: '1'
+
+Input: '0000'
+Output: '1'
+
+Input: '00000'
+Output: '1'
+
+Input: '000000'
+Output: '1'
+
+Input: '00000000'","Output: '01'
+
+Input: '1'
+Output: '0'
+
+Input: '11'
+Output: ''
+
+Input: '10'
+Output: '1'
+
+Input: '00'
+Output: '1'
+
+Input: '000'
+Output:
+Output: ''
+
+Input: '0000'
+Output: ''
+
+Input: '00000'
+Output: ''
+
+Input: '000000'
+Output: ''
+
+Input: '0000000'
+Output: ''
+
+Input: '"
+"Input: ''
+Output: '000'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '110'
+Output: ''
+
+Input: '11001'
+Output:",'',"Output: '000'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '110'
+Output: ''
+
+Input: '11001'
+Output:
+Output: '11001'
+
+Input: '110101'
+Output:
+Output: '110101'
+
+Input: '11010101'
+Output:
+Output: '11010101'
+
+Input:","Output: '000'
+
+Input: '0'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '110'
+Output: ''
+
+Input: '11001'
+Output:
+Output: ''
+
+Input: '1100101'
+Output: ''
+
+Input: '110010101'
+Output: ''
+
+Input: '11001010101'
+Output: ''
+
+Input: '11001"
+"Input: ''
+Output: '1'
+
+Input: '1'
+Output: ''
+
+Input: '111'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '000'
+Output:",'',"Output: '1'
+
+Input: '1'
+Output: ''
+
+Input: '111'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '000'
+Output:
+Output: '1'
+
+Input: '0000'
+Output: '0'
+
+Input: '00000'
+Output: '1'
+
+Input: '000000'
+Output: '0'
+
+Input: '0000000'","Output: '1'
+
+Input: '1'
+Output: ''
+
+Input: '111'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '00'
+Output: ''
+
+Input: '000'
+Output:
+Output: ''
+
+Input: '0000'
+Output: ''
+
+Input: '00000'
+Output: ''
+
+Input: '000000'
+Output: ''
+
+Input: '0000000'
+Output: ''
+
+Input: '"
+"Input: ''
+Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: '0'
+
+Input: '11110'
+Output:",'1',"Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: '0'
+
+Input: '11110'
+Output:
+Output: '1'
+
+Input: '11110'
+Output: '1'
+
+Input: '11110'
+Output: '1'
+
+Input: '11110'
+Output: '1'
+
+Input: '","Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: '0'
+
+Input: '11110'
+Output:
+Output: ''
+
+Input: '11110'
+Output: ''
+
+Input: '11110'
+Output: ''
+
+Input: '11110'
+Output: ''
+
+Input: '11110'
+Output: ''"
+"Input: '00'
+Output: '0'
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '1'
+
+Input: '011'
+Output:",'11',"Output: '0'
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '1'
+
+Input: '011'
+Output:
+Output: '11'
+
+Input: '101'
+Output:
+Output: '11'
+
+Input: '111'
+Output:
+Output: '11'
+
+Input: '0101'
+Output: '11'","Output: '0'
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '1'
+
+Input: '011'
+Output:
+Output: '1'
+
+Input: '101'
+Output:
+Output: '1'
+
+Input: '111'
+Output:
+Output: '1'
+
+Input: '0101'
+Output:
+Output: '"
+"Input: ''
+Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '001'
+Output:",'0',"Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '001'
+Output:
+Output: '1'
+
+Input: '0001'
+Output:
+Output: '0'
+
+Input: '00001'
+Output:
+Output: '1'
+
+Input: '000001'
+Output:
+Output:","Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '001'
+Output:
+Output: ''
+
+Input: '0001'
+Output: ''
+
+Input: '00001'
+Output: ''
+
+Input: '000001'
+Output: ''
+
+Input: '0000001'
+Output: ''"
+"Input: '10'
+Output: '001'
+
+Input: '1000'
+Output: '001'
+
+Input: '011'
+Output: '110'
+
+Input: '11000'
+Output:",'111',"Output: '001'
+
+Input: '1000'
+Output: '001'
+
+Input: '011'
+Output: '110'
+
+Input: '11000'
+Output:
+Output: '001'
+
+Input: '11100'
+Output: '110'
+
+Input: '11101'
+Output: '111'
+
+Input: '11111'
+Output: '111'
+
+Input: '","Output: '001'
+
+Input: '1000'
+Output: '001'
+
+Input: '011'
+Output: '110'
+
+Input: '11000'
+Output:
+Output: '001'
+
+Input: '11100'
+Output:
+Output: '110'
+
+Input: '11101'
+Output:
+Output: '111'
+
+Input: '11110'
+Output:
+Output"
+"Input: '1'
+Output: '01'
+
+Input: '11'
+Output: ''
+
+Input: '111'
+Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '1010'
+Output:",'11',"Output: '01'
+
+Input: '11'
+Output: ''
+
+Input: '111'
+Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '1010'
+Output:
+Output: '1010'
+
+Input: '0101010101010101010101010101010101010101010101010101010101010101010101010101010101","Output: '01'
+
+Input: '11'
+Output: ''
+
+Input: '111'
+Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '1010'
+Output:
+Output: '101'
+
+Input: '1111'
+Output:
+Output: '11'
+
+Input: '0000'
+Output: '0'
+
+Input: '111111'
+Output:
+Output: '11'"
+"Input: ''
+Output: '11'
+
+Input: '00'
+Output: '1'
+
+Input: '01'
+Output: '1'
+
+Input: '110'
+Output: '10'
+
+Input: '1010'
+Output:",'10',"Output: '11'
+
+Input: '00'
+Output: '1'
+
+Input: '01'
+Output: '1'
+
+Input: '110'
+Output: '10'
+
+Input: '1010'
+Output:
+Output: '10'
+
+Input: '1111'
+Output: '11'
+
+Input: '0000'
+Output: '0'
+
+Input: '111111'
+Output: '11'
+
+Input: '0101","Output: '11'
+
+Input: '00'
+Output: '1'
+
+Input: '01'
+Output: '1'
+
+Input: '110'
+Output: '10'
+
+Input: '1010'
+Output:
+Output: '101'
+
+Input: '1111'
+Output: '11'
+
+Input: '0000'
+Output: '0'
+
+Input: '111111'
+Output: '11'
+
+Input: '00000000'"
+"Input: ''
+Output: '000'
+
+Input: '1'
+Output: '0'
+
+Input: '100'
+Output: '1'
+
+Input: '11'
+Output: ''
+
+Input: '101'
+Output:",'1',"Output: '000'
+
+Input: '1'
+Output: '0'
+
+Input: '100'
+Output: '1'
+
+Input: '11'
+Output: ''
+
+Input: '101'
+Output:
+Output: '0'
+
+Input: '111'
+Output:
+Output: '1'
+
+Input: '1000'
+Output: '0'
+
+Input: '1001'
+Output:
+Output: '1'","Output: '000'
+
+Input: '1'
+Output: '0'
+
+Input: '100'
+Output: '1'
+
+Input: '11'
+Output: ''
+
+Input: '101'
+Output:
+Output: '1'
+
+Input: '111'
+Output:
+Output: '1'
+
+Input: '1111'
+Output:
+Output: '1'
+
+Input: '11111'
+Output:
+Output: '"
+"Input: ''
+Output: '10'
+
+Input: '01'
+Output: '0'
+
+Input: '0'
+Output: '10'
+
+Input: '011'
+Output: '0'
+
+Input: '11001'
+Output:",'0',"Output: '10'
+
+Input: '01'
+Output: '0'
+
+Input: '0'
+Output: '10'
+
+Input: '011'
+Output: '0'
+
+Input: '11001'
+Output:
+Output: '10'
+
+Input: '110101'
+Output: '0'
+
+Input: '11010101'
+Output: '10'
+
+Input: '1101010101'
+Output: '0","Output: '10'
+
+Input: '01'
+Output: '0'
+
+Input: '0'
+Output: '10'
+
+Input: '011'
+Output: '0'
+
+Input: '11001'
+Output:
+Output: '10'
+
+Input: '1100101'
+Output:
+Output: '10'
+
+Input: '110010101'
+Output:
+Output: '10'
+
+Input: '11001010101"
+"Input: ''
+Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '1100'
+Output:",'',"Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '1100'
+Output:
+Output: '0'
+
+Input: '1010'
+Output: '0'
+
+Input: '1011'
+Output: '0'
+
+Input: '1111'
+Output: '0'
+
+Input: '01","Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '1'
+Output: ''
+
+Input: '10'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '01'
+Output: '0'
+
+Input: '1100'
+Output:
+Output: ''
+
+Input: '1010101'
+Output: ''
+
+Input: '11111111'
+Output: ''
+
+Input: '01010101010101010101010101010101010101"
+"Input: '00'
+Output: ''
+
+Input: '001'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '1010'
+Output:",'0',"Output: ''
+
+Input: '001'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '1010'
+Output:
+Output: '10'
+
+Input: '10101'
+Output:
+Output: '10'
+
+Input: '1010101'
+Output:
+Output: '10'
+
+Input: '101010101'
+Output","Output: ''
+
+Input: '001'
+Output: '0'
+
+Input: '01'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '1010'
+Output:
+Output: '10'
+
+Input: '1111'
+Output:
+Output: '11'
+
+Input: '10101010'
+Output:
+Output: '10101'
+
+Input: '11111111'
+Output:"
+"Input: '10'
+Output: '010'
+
+Input: '01'
+Output: '101'
+
+Input: '0111'
+Output: '101'
+
+Input: '11100'
+Output:",'111',"Output: '010'
+
+Input: '01'
+Output: '101'
+
+Input: '0111'
+Output: '101'
+
+Input: '11100'
+Output:
+Output: '101'
+
+Input: '1110001'
+Output: '101'
+
+Input: '111000111'
+Output: '101'
+
+Input: '11100011101'
+Output: '101","Output: '010'
+
+Input: '01'
+Output: '101'
+
+Input: '0111'
+Output: '101'
+
+Input: '11100'
+Output:
+Output: '101'
+
+Input: '1110001'
+Output:
+Output: '101'
+
+Input: '111000111'
+Output:
+Output: '101'
+
+Input: '11100011101"
+"Input: ''
+Output: '01'
+
+Input: '100'
+Output: '0'
+
+Input: '101'
+Output: '0'
+
+Input: '1000'
+Output: '0'
+
+Input: '1010'
+Output:",'0',"Output: '01'
+
+Input: '100'
+Output: '0'
+
+Input: '101'
+Output: '0'
+
+Input: '1000'
+Output: '0'
+
+Input: '1010'
+Output:
+Output: '0'
+
+Input: '1011'
+Output:
+Output: '0'
+
+Input: '1100'
+Output:
+Output: '0'
+
+Input: '1101'
+Output:
+Output:","Output: '01'
+
+Input: '100'
+Output: '0'
+
+Input: '101'
+Output: '0'
+
+Input: '1000'
+Output: '0'
+
+Input: '1010'
+Output:
+Output: '0'
+
+Input: '1011'
+Output:
+Output: '0'
+
+Input: '1100'
+Output:
+Output: '0'
+
+Input: '1101'
+Output:
+Output:"
+"Input: '00'
+Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '0'
+Output:",'',"Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '0'
+Output:
+Output: '0'
+
+Input: '1'
+Output: '1'
+
+Input: '11'
+Output: '1'
+
+Input: '111'
+Output: '1'
+
+Input: '1111'","Output: ''
+
+Input: '000'
+Output: '01'
+
+Input: '110'
+Output: '01'
+
+Input: '10'
+Output: ''
+
+Input: '0'
+Output:
+Output: ''
+
+Input: '1'
+Output: ''
+
+Input: '11'
+Output: '01'
+
+Input: '111'
+Output: '01'
+
+Input: '1111'
+Output: '01"
+"Input: ''
+Output: '1'
+
+Input: '00'
+Output: '10'
+
+Input: '1111'
+Output: '11'
+
+Input: '1011'
+Output: '11'
+
+Input: '0111'
+Output:",'10',"Output: '1'
+
+Input: '00'
+Output: '10'
+
+Input: '1111'
+Output: '11'
+
+Input: '1011'
+Output: '11'
+
+Input: '0111'
+Output:
+Output: '11'
+
+Input: '0101'
+Output: '11'
+
+Input: '010101'
+Output: '11'
+
+Input: '01010101'
+Output: '11'","Output: '1'
+
+Input: '00'
+Output: '10'
+
+Input: '1111'
+Output: '11'
+
+Input: '1011'
+Output: '11'
+
+Input: '0111'
+Output:
+Output: '11'
+
+Input: '0101'
+Output:
+Output: '11'
+
+Input: '0101'
+Output:
+Output: '11'
+
+Input: '0101'
+Output:
+Output"
+"Input: ''
+Output: '100'
+
+Input: '01'
+Output: '0'
+
+Input: '010'
+Output: '0'
+
+Input: '1'
+Output: '100'
+
+Input: '11101'
+Output:",'0',"Output: '100'
+
+Input: '01'
+Output: '0'
+
+Input: '010'
+Output: '0'
+
+Input: '1'
+Output: '100'
+
+Input: '11101'
+Output:
+Output: '100'
+
+Input: '1110101'
+Output:
+Output: '100'
+
+Input: '111010101'
+Output:
+Output: '100'
+
+Input: '11101010101","Output: '100'
+
+Input: '01'
+Output: '0'
+
+Input: '010'
+Output: '0'
+
+Input: '1'
+Output: '100'
+
+Input: '11101'
+Output:
+Output: '100'
+
+Input: '1110101'
+Output:
+Output: '100'
+
+Input: '111010101'
+Output:
+Output: '100'
+
+Input: '11101010101"
+"Input: ''
+Output: '0'
+
+Input: '01'
+Output: '001'
+
+Input: '110'
+Output: '0110'
+
+Input: '101'
+Output: '0101'
+
+Input: '1'
+Output:",'01',"Output: '0'
+
+Input: '01'
+Output: '001'
+
+Input: '110'
+Output: '0110'
+
+Input: '101'
+Output: '0101'
+
+Input: '1'
+Output:
+Output: '1'
+
+Input: '0'
+Output: '0'
+
+Input: '00'
+Output: '000'
+
+Input: '000'
+Output: '000'
+
+Input: '0000'","Output: '0'
+
+Input: '01'
+Output: '001'
+
+Input: '110'
+Output: '0110'
+
+Input: '101'
+Output: '0101'
+
+Input: '1'
+Output:
+Output: '1'
+
+Input: ''
+Output: '0'
+
+Input: '01'
+Output: '001'
+
+Input: '110'
+Output: '0110'
+
+Input: '101'
+Output"
+"Input: ''
+Output: '111'
+
+Input: '1'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: ''
+
+Input: '11101'
+Output:",'',"Output: '111'
+
+Input: '1'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: ''
+
+Input: '11101'
+Output:
+Output: '11101'
+
+Input: '1110101'
+Output:
+Output: '1110101'
+
+Input: '111010101'
+Output:
+Output: '111010101'
+
+Input:","Output: '111'
+
+Input: '1'
+Output: ''
+
+Input: '11'
+Output: ''
+
+Input: '010'
+Output: ''
+
+Input: '11101'
+Output:
+Output: ''
+
+Input: '1110101'
+Output: ''
+
+Input: '111010101'
+Output: ''
+
+Input: '11101010101'
+Output: ''
+
+Input: '11101"
+"Input: ''
+Output: '011'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '11'
+
+Input: '111'
+Output: '1'
+
+Input: '11001'
+Output:",'1',"Output: '011'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '11'
+
+Input: '111'
+Output: '1'
+
+Input: '11001'
+Output:
+Output: '11001'
+
+Input: '110101'
+Output:
+Output: '110101'
+
+Input: '11010101'
+Output:
+Output: '11010101'
+
+Input:","Output: '011'
+
+Input: '1'
+Output: '1'
+
+Input: '00'
+Output: '11'
+
+Input: '111'
+Output: '1'
+
+Input: '11001'
+Output:
+Output: '11001'
+
+Input: '1100101'
+Output:
+Output: '1100101'
+
+Input: '110010101'
+Output:
+Output: '110010101'
+
+Input:"
+"Input: '0'
+Output: '000'
+
+Input: '1111'
+Output: '111'
+
+Input: '1011'
+Output: '111'
+
+Input: '11100'
+Output:",'111',"Output: '000'
+
+Input: '1111'
+Output: '111'
+
+Input: '1011'
+Output: '111'
+
+Input: '11100'
+Output:
+Output: '11100'
+
+Input: '11101'
+Output: '11100'
+
+Input: '11111'
+Output: '11100'
+
+Input: '11111'
+Output: '11100'","Output: '000'
+
+Input: '1111'
+Output: '111'
+
+Input: '1011'
+Output: '111'
+
+Input: '11100'
+Output:
+Output: '111'
+
+Input: '11101'
+Output: '111'
+
+Input: '11110'
+Output: '111'
+
+Input: '11111'
+Output: '111'
+
+Input: '"
+"Input: ''
+Output: '00'
+
+Input: '001'
+Output: ''
+
+Input: '0'
+Output: '00'
+
+Input: '111'
+Output: ''
+
+Input: '11001'
+Output:",'11',"Output: '00'
+
+Input: '001'
+Output: ''
+
+Input: '0'
+Output: '00'
+
+Input: '111'
+Output: ''
+
+Input: '11001'
+Output:
+Output: '11001'
+
+Input: '110101'
+Output:
+Output: '110101'
+
+Input: '11010101'
+Output:
+Output: '11010101'
+
+Input:","Output: '00'
+
+Input: '001'
+Output: ''
+
+Input: '0'
+Output: '00'
+
+Input: '111'
+Output: ''
+
+Input: '11001'
+Output:
+Output: ''
+
+Input: '1100101'
+Output: ''
+
+Input: '110010101'
+Output: ''
+
+Input: '11001010101'
+Output: ''
+
+Input: '11001"
+"Input: '00'
+Output: ''
+
+Input: '000'
+Output: '1'
+
+Input: '010'
+Output: '1'
+
+Input: '110'
+Output: '1'
+
+Input: '0'
+Output:",'',"Output: ''
+
+Input: '000'
+Output: '1'
+
+Input: '010'
+Output: '1'
+
+Input: '110'
+Output: '1'
+
+Input: '0'
+Output:
+Output: '0'","Output: ''
+
+Input: '000'
+Output: '1'
+
+Input: '010'
+Output: '1'
+
+Input: '110'
+Output: '1'
+
+Input: '0'
+Output:
+Output: '1'
+
+Input: '001'
+Output: '1'
+
+Input: '101'
+Output: '1'
+
+Input: '011'
+Output: '1'
+
+Input: '111'"
+"Input: '0'
+Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '01'
+Output: '10'
+
+Input: '0000'
+Output: '10'
+
+Input: '11001'
+Output:",'',"Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '01'
+Output: '10'
+
+Input: '0000'
+Output: '10'
+
+Input: '11001'
+Output:
+Output: '11001'
+
+Input: '110101'
+Output:
+Output: '110101'
+
+Input: '11010101'
+Output:
+Output: '11010101'
+
+Input:","Output: ''
+
+Input: '00'
+Output: '10'
+
+Input: '01'
+Output: '10'
+
+Input: '0000'
+Output: '10'
+
+Input: '11001'
+Output:
+Output: '101'
+
+Input: '110101'
+Output:
+Output: '101'
+
+Input: '11010101'
+Output:
+Output: '101'
+
+Input: '1101010101"
+"Input: '0'
+Output: ''
+
+Input: '01'
+Output: '00'
+
+Input: '0111'
+Output: '00'
+
+Input: '011'
+Output: '00'
+
+Input: '11101'
+Output:",'11',"Output: ''
+
+Input: '01'
+Output: '00'
+
+Input: '0111'
+Output: '00'
+
+Input: '011'
+Output: '00'
+
+Input: '11101'
+Output:
+Output: '00'
+
+Input: '111011'
+Output:
+Output: '00'
+
+Input: '1110111'
+Output:
+Output: '00'
+
+Input: '11101111'
+Output","Output: ''
+
+Input: '01'
+Output: '00'
+
+Input: '0111'
+Output: '00'
+
+Input: '011'
+Output: '00'
+
+Input: '11101'
+Output:
+Output: '00'
+
+Input: '1110101'
+Output:
+Output: '00'
+
+Input: '111010101'
+Output:
+Output: '00'
+
+Input: '11101010101"

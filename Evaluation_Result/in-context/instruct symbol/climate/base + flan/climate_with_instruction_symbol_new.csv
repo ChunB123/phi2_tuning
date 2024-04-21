@@ -1,0 +1,826 @@
+Input,Target,Base Model Generation,Finetuned Model Generation
+"Question: Label the following sentence based on whether it is related to climate.
+Based on these market developments, we continue to focus on policy and legal risks, as well as technology risks, as we mainly expect changes within these two dimensions to potentially impact asset values. In this way, we aim to capture those industries and groups of companies that are most exposed to these risks and may therefore require adjustments in the near to medium term.
+Answer: QYSM
+Question: Label the following sentence based on whether it is related to climate.
+As part of this proactive approach, six years ago the Group introduced an 'internal carbon tax', a mechanism that it has built on and expanded in the intervening period. Each year, a carbon tax is levied on each of the Group's entities, based on their greenhouse gas emissions ($10/tonne Carbon dioxide equivalent) and the sums collected are then redistributed in the form of rewards for the best internal environmental efficiency initiatives, through the 'Environmental Efficiency
+Answer: LTRJ
+Question: Label the following sentence based on whether it is related to climate.
+This broad, detailed study found BNP Pari- bas' business model to be resilient to these risks, with respect to: o its businesses, and the sector and geographic classifications of its portfolios; o the measures taken to mitigate these risks.
+Answer: QYSM
+Question: Label the following sentence based on whether it is related to climate.
+Group environmental impacts: With over 83,000 employees in more than 100 countries, the Group’s operations impact on the environment, particularly as a result of travel, energy consumption and waste. Impacts associated with climate change: Climate events (floods, storms, tsunamis, etc.) may disrupt or interrupt the services delivered by agencies and teams to their clients.
+Answer: LTRJ
+Question: Label the following sentence based on whether it is related to climate.
+Risks are assessed at least annually. Please refer to Section 6.1 Our approach to risk management, 6.2 Risk categories and factors, 6.3 Strategic risks, 6.4 Operational risks, 6.5 Compliance risks, and 6.6 Financial risks.
+Answer: QYSM
+Question: Label the following sentence based on whether it is related to climate.
+Reputation Risk: This is the risk of loss of credibility due to internal or external factors and is often related to, or results from, other categories of risk. This risk can arise from our internal business practices or those of our business partners or the companies in which we invest. Business partners include third parties hired to perform some of our administrative functions as well as investment organizations with which we have a contractual arrangement. A loss of reputation could impact our position as a partner, investor and employer of choice and impede our ability to execute our strategy.
+Answer: QYSM
+Question: Label the following sentence based on whether it is related to climate.
+In order to finance the entire investment volume of around €6 billion, divestitures amounting to €1.7 billion are planned in the years 2018 to 2020. This includes divestitures in the onshore sector, which will build on our already realised participation models. The remaining divestitures will involve the sale of property, the receipt of construction cost subsidies and the disposal of subsidiaries.
+Answer: LTRJ
+Question: Label the following sentence based on whether it is related to climate.
+We want to contribute to the transition to a circular economy. The linear economy is not sustainable. We discard a great deal (waste and therefore raw materials, experience, social capital and knowledge) and are squandering value as a result. This is not tenable from an economic and ecological perspective. As investor we can ‘direct’ companies and with our network, our scale and our influence we can help the movement towards a circular future (creating a sustainable society) further along.
+Answer: LTRJ
+Question: Label the following sentence based on whether it is related to climate.
+The impact of climate change presents a significant risk. Damage to assets caused by extreme weather events linked to climate change is becoming more evident, highlighting the fragility of global infrastructure. We also anticipate the potential effects of climate change will increasingly impact our own operations and those of client properties we manage, especially when they are in coastal cities.
+Answer: 
+",LTRJ,"Output:
+
+Possible output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The impact of climate change presents a significant risk. Damage to assets caused by extreme weather events linked to climate change is becoming more evident","Output: QYSM
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group's business model is resilient to climate change risks, as it has been designed to be flexible and adaptable to changing market conditions. This"
+"Question: Label the following sentence based on whether it is related to climate.
+Validation We established a common understanding between Toyota Motor Corporation (TMC) and all regions at the global meetings also based on the analyses conducted by overseas affiliates. We also engaged in dialogue with international organizations to validate the issues identified from perspectives outside of the company. The matrix was confirmed by relevant executives.
+Answer: 62011
+Question: Label the following sentence based on whether it is related to climate.
+Climate change strategy Climate risks the Commissioners face include: • Transition risk – the risk that our asset allocation, asset managers or individual investment assets prove to be poorly positioned for the investment risks and opportunities associated with the transition to a net zero carbon economy. • Physical risk – the risk that our assets are impacted by the physical risks associated with climate change, such as flooding and fire, particularly our property, rural and forest assets.
+Answer: 78360
+Question: Label the following sentence based on whether it is related to climate.
+JetBlue's workforce is broadly diversified among several job classifications, with Airport Operations crewmembers as the largest group at 31.3%. Nearly all (99.2%) of JetBlue's workforce is based in the United States. For more information on our workforce and crewmembers, see page 39. (TR0201-05)
+Answer: 62011
+Question: Label the following sentence based on whether it is related to climate.
+In anticipation of regulatory policies we are seeking to take advantage of the opportunity to deliver sustainable solutions for our clients. One example is our Mission 2030 statement, in which we state that we want to raise the average energy performance of all buildings financed by ABN AMRO to energy label 'A' by 2030. By starting this process, we mitigate the transition risk of these upcoming regulatory policies that may materialise soon. Our progress on this target is shown in the 2019 Non-Financial Data & Engagement report.
+Answer: 78360
+Question: Label the following sentence based on whether it is related to climate.
+Our investors also expect that we stand for something far more than providing economic returns. To facilitate the change towards net zero, in January 2020, we also announced the launch of our first green bond, issued by National Grid Electricity Transmission plc. The €500 million proceeds from the bond issuance will finance electricity transmission projects with environmental benefits.
+Answer: 78360
+Question: Label the following sentence based on whether it is related to climate.
+In addition, our businesses and the markets in which we operate are continuously evolving. We may fail to fully understand the implications of changes in our businesses or the financial markets or fail to adequately or timely enhance our risk framework to address those changes. If our risk framework is ineffective because it fails to keep pace with changes in the financial markets, regulatory requirements, our businesses, our counterparties, clients or service providers or for other reasons, we could incur losses, suffer reputational damage or find ourselves out of compliance with applicable regulatory or contractual mandates or expectations.
+Answer: 62011
+Question: Label the following sentence based on whether it is related to climate.
+Based on these metrics, BNP Paribas set interme- diate targets for itself. The long-term ambition is clear (to align its businesses with the Paris Agree- ment goals), but to achieve that ambition calls for short and medium-term targets in more specific bu- siness lines, allowing the Group to steer its various business operations with greater precision.
+Answer: 78360
+Question: Label the following sentence based on whether it is related to climate.
+The Board of Directors has overall responsibility for ensuring that IAG has an appropriate risk management framework, including the determination of the nature and extent of risk it is willing to take to achieve its strategic objectives. The Board has oversight of the Group's operations to ensure that internal controls are in place and operate effectively. Management is responsible for the execution of the agreed plans.
+Answer: 62011
+Question: Label the following sentence based on whether it is related to climate.
+The main impacts of the 4ºC scenario were: • Physical ramifications of climate change: in this scenario we expect extreme weather events of escalating severity and frequency, which could increase disruption to our assets and our customers. This would require investment to ‘harden’ assets and would heighten the safety risk to our field employees. Our approach to physical climate risk is discussed in more detail below. • Lower system visibility: as this scenario sees less coordinated policy and regulation in pursuit of decarbonisation, we would anticipate a greater variety of solutions being deployed across our networks. This could increase overall system costs and reduce visibility over the network, potentially slowing our responsiveness to disruptive events. We do note, however, that a greater number of distributed assets would increase the potential for local balancing, which could mitigate this. • Inequality of access: without carefully designed policy, we believe decarbonisation activities have the potential to leave some sectors of society behind: for example, heat pumps and the energy efficiency upgrades they typically require are currently cost-prohibitive for many. As well as the ethical implications of this, there is a risk to the Group, especially for our US businesses, that a proportion of our customers would struggle to pay their bills.
+Answer: 
+",78360,Output:,"Output: 62011
+
+Question: Label the following sentence based on whether it is related to climate.
+The Board of Directors has overall responsibility for ensuring that IAG has an appropriate risk management framework, including the determination of the nature and extent of risk it"
+"Question: Label the following sentence based on whether it is related to climate.
+In late 2017, CN committed to purchasing 200 new alternating current traction locomotives over the next three years to accommodate future growth opportunities and drive operational efficiency across the system. CN’s order is the largest among Class I railways since 2014. These high-horsepower engines are equipped with advanced digital technologies to optimize power distribution, train handling, brake control and fuel utilization.
+Answer: 93432
+Question: Label the following sentence based on whether it is related to climate.
+Energy Efficiency: These measures include new retrofit technologies to improve Chiller and Air Handling Units (AHUs), integrated design and monitoring platforms. The Global Energy command centre aggregates Building Management System inputs on a common platform to optimize operational control and improve energy efficiency.
+Answer: Wodov
+Question: Label the following sentence based on whether it is related to climate.
+For example, we offer sustainable finance. MUFG has set a goal of ¥20 trillion for sustainable finance by fiscal 2030 (of this, ¥8 trillion will be used for environmental finance). To reach our goal, we will finance renewable energy projects and underwrite and distribute Green Bonds. We will also finance incubation projects to nurture startups and regional revitalization programs.
+Answer: Wodov
+Question: Label the following sentence based on whether it is related to climate.
+This is due to the diversity of our business. The scope and range of our products make it impossible to calculate a single production figure and our financial results are affected by commodity prices and foreign exchange rates, which are outside our control. As a result of the nature of the exploration, development and production cycle, our CO2 emissions do not necessarily correlate to our employee headcount.
+Answer: Wodov
+Question: Label the following sentence based on whether it is related to climate.
+IAG is exposed to multiple risks relating to its general insurance business. The risks noted below are not meant to represent an exhaustive list, but outline the material risks faced by the Group as identified in the RMS:  strategic risk – the risk that internal or external factors compromise our ability to execute our strategic objectives or our strategy;
+Answer: 93432
+Question: Label the following sentence based on whether it is related to climate.
+We recognize that there is potentially a lot of uncertainty regarding how to quantify these impacts and that reasonable people can differ in their assessments. As our collective knowledge and understanding of these mechanisms evolve, it is possible that the quantification of these scenarios may also change.
+Answer: 93432
+Question: Label the following sentence based on whether it is related to climate.
+In addition to participating in international working groups associated with the Principles for Responsible Banking, the Bank participates in the work of the Canadian Bankers Association on the following issues: Scenario analysis Integrating climate-related concepts into risk management Defining a Canadian taxonomy Monitoring key developments and best practices Standardizing of calculation methodologies Peer-to-peer comparison exercises Increasing the Efficiency of Our Operations In addition to its efforts to develop sustainable products and services, the Bank has identified opportunities to be greener in its operations.
+Answer: Wodov
+Question: Label the following sentence based on whether it is related to climate.
+IFC expands the availability of such technologies by channeling investments toward private companies that build modern communications infrastructure and information-technology businesses. In FY18, we invested $376 million in initiatives related to technology, including funds mobilized from other investors — expanding our portfolio in this sector to more than $2.4 billion.
+Answer: 93432
+Question: Label the following sentence based on whether it is related to climate.
+Validation We established a common understanding between Toyota Motor Corporation (TMC) and all regions at the global meetings also based on the analyses conducted by overseas affiliates. We also engaged in dialogue with international organizations to validate the issues identified from perspectives outside of the company. The matrix was confirmed by relevant executives.
+Answer: 
+",93432,Output:,"Output: 93432
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank has also identified opportunities to be greener in its operations.
+Answer: Wodov
+
+Question: Label the following sentence based"
+"Question: Label the following sentence based on whether it is related to climate.
+Indirect emissions, known as scope 2 and 3 emissions, result from operational activities we do not own or control. These include emissions produced as a consequence of electricity we purchase to power our treatment plants (scope 2) and other indirect emissions such as travel on company business (scope 3). Emissions from electricity we use are calculated by converting each kilowatt hour purchased into its carbon dioxide equivalent.
+Answer: Budef
+Question: Label the following sentence based on whether it is related to climate.
+The Group Compliance SU (CPLE) is responsible for the definition and consistency of the compliance risk prevention and control framework, and for coordinating the framework aimed at preventing, identifying, assessing and controlling reputational risk across the entire Group.
+Answer: Foguc
+Question: Label the following sentence based on whether it is related to climate.
+This strategic plan is based on a number of assumptions, in particular relating to the macroeconomic environment and the development of activities. Failure to achieve these objectives or the occurrence of unexpected events could compromise the achievement of the strategic plan and have a material adverse effect on the Group's business, results of operations and financial position.
+Answer: Foguc
+Question: Label the following sentence based on whether it is related to climate.
+This structured approach applies to all of the Group’s operated businesses exposed to these risks. In addition to its drilling and pipeline transport operations, the Group has at the end of 2018 195 sites and operating zones exposed to major technological risks, which could cause harm or damage to people, property and the environment, corresponding to:
+Answer: Budef
+Question: Label the following sentence based on whether it is related to climate.
+Climate change potentially has multiple effects that could harm the Group’s operations. The increasing scarcity of water resources may negatively affect the Group’s operations in some regions of the world, high sea levels may harm certain coastal activities, and the multiplication of extreme weather events may damage offshore and onshore facilities. These climate risk factors are continually assessed in the risk management and prevention plans.
+Answer: Budef
+Question: Label the following sentence based on whether it is related to climate.
+In April 2018, the Group successfully completed a refinancing to convert floating to fixed debt and to extend the debt maturity out to November 2025. The Group issued a US$300 million bond with a fixed interest rate of 6.625%, which was swapped back to sterling upon issuance at an effective interest rate of 5%. The proceeds of the new issue were used to repay in full the £200 million floating rate bond issued in 2017 which had a maturity of 2022.
+Answer: Foguc
+Question: Label the following sentence based on whether it is related to climate.
+In terms of piloting, we are analysing CIB listed companies sub-portfolio data (about 30 percent of the total in terms of EAD of given portfolio) while for remaining companies we are applying proxies based on sector and size of the company.
+Answer: Foguc
+Question: Label the following sentence based on whether it is related to climate.
+For a small number of companies that were very close to the threshold, BNP Paribas Asset Management conducted analysis and engagement to encourage these companies to improve their decarbonisation targets - and these companies will be subject to annual monitoring.
+Answer: Budef
+Question: Label the following sentence based on whether it is related to climate.
+Impacts of Risks are consequences of risks, both quantitative and qualitative. There may be many consequences of risks manifesting, such as a reduction in earnings and capital, liquidity outflows, and fines or penalties, or qualitative impacts such as reputation damage, loss of clients and customers, and regulatory and enforcement actions.
+Answer: 
+",Foguc,Output:,"Output: Budef
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group’s business is exposed to a number of risks, including:
+
+Answer: Budef
+
+Question: Label the following sentence"
+"Question: Label the following sentence based on whether it is related to climate.
+These sector-specific policies are usually developed by the AI taking into account relevant industry certification schemes, international practices, its strategy, level of exposure to the particular sector, and even its engagement with customers, industry experts, shareholders and the community.
+Answer: Wiqen
+Question: Label the following sentence based on whether it is related to climate.
+In developing our scenario analysis, we used internal data sets and assumptions made in our existing business models. We considered the views of departments across the business to better understand risks and time horizons. We also took the time to consider impacts and dependencies. This helped us to report on the risks and opportunities that are most material to our organization.
+Answer: Wiqen
+Question: Label the following sentence based on whether it is related to climate.
+In order to finance the entire investment volume of around €6 billion, divestitures amounting to €1.7 billion are planned in the years 2018 to 2020. This includes divestitures in the onshore sector, which will build on our already realised participation models. The remaining divestitures will involve the sale of property, the receipt of construction cost subsidies and the disposal of subsidiaries.
+Answer: 22936
+Question: Label the following sentence based on whether it is related to climate.
+The following additional restrictions are in place for clients active in mountaintop removal mining (MTR): Barclays does not directly finance MTR projects or developments; We apply EDD to financing facilities involving clients which practice MTR.
+Answer: 22936
+Question: Label the following sentence based on whether it is related to climate.
+Supporting the Low-Carbon Transition Our business units are on pace to meet our commitment to mobilize $250 billion to support low-carbon solutions by 2030. They are building expertise, supported by GSF and the Institute for Sustainable Investing, to serve our clients' growing interest in Environmental, Social, and Governance issues and in climate change specifically. Survey data from the Institute suggests rapidly accelerating interest in climate-focused solutions among asset managers, asset owners and individual investors. In response, we are developing accessible new products, such as Morgan Stanley Impact Quotient (see page 15). Our early work in 2013 in scaling green- bond financing has catalyzed new opportunities and continues to drive sector innovation in green and sustainable bonds.
+Answer: 22936
+Question: Label the following sentence based on whether it is related to climate.
+As a founding member of the Australian Business Roundtable for Disaster Resilience & Safer Communities, IAG works collaboratively with governments to effect change in public policy, increase investment aimed at building safer and more resilient communities and working to improve the capacity of people and businesses to better withstand future natural disasters. IAG has also been invited by the Governments in Australia and New Zealand to play a role in climate change management, including active engagement and contribution to the National Resilience Taskforce in Australia. In New Zealand IAG is working through the Climate Leaders Coalition to ensure businesses are actively adapting and building resilience to climate impacts. As a key member of the Insurance Council of Australia, the representative body of the general insurance industry in Australia, IAG plays an active role in the Council's Climate Change Action Committee and Data and Knowledge Sub-Committee.
+Answer: 22936
+Question: Label the following sentence based on whether it is related to climate.
+Based on this assessment, the directors have a reasonable expectation that the Group will be able to continue in operation, meet its liabilities as they fall due and raise financing as required over the period to December 2022.
+Answer: Wiqen
+Question: Label the following sentence based on whether it is related to climate.
+We could suffer losses and our business has been and could be adversely affected by the failure to adopt and implement effective risk management We have implemented risk management strategies, policies and internal controls involving processes and procedures intended to identify, monitor and manage risks facing the Group. However, our risk management framework has not always been, or may not in the future prove to be, effective.
+Answer: Wiqen
+Question: Label the following sentence based on whether it is related to climate.
+The Bank signed five transactions worth a total of €47 million under its Green Cities Framework in support of environmentally friendly municipal investments. Projects included financing for an electric bus fleet in Batumi, Georgia, and for a biomass-fuelled district heating plant in Banja Luka, Bosnia and Herzegovina. A wide range of donors provide funding in support of the Framework.
+Answer: 
+",22936,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank signed five transactions worth a total of €47 million under its Green Cities Framework in support of environmentally friendly municipal investments. Projects included financing for an electric bus","Output: 22936
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank signed five transactions worth a total of €47 million under its Green Cities Framework in support of environmentally friendly municipal investments. Projects included financing for an"
+"Question: Label the following sentence based on whether it is related to climate.
+Except as required by law, the Bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time, by it or on its behalf.
+Answer: Fokix
+Question: Label the following sentence based on whether it is related to climate.
+NEW SOLUTIONS FOR SUSTAINABLE MOBILITY In addition to the research projects already mentioned on biofuels and hydrogen, Eni is investing in new fuels produced from waste: in this area a project is currently being assessed at the Livorno Re- finery involving production of methanol by high temperature gasification with oxygen of solid urban waste, made up of non-recyclable plastic waste (Plasmix, a mix of plastics not currently recyclable and SSF, Secondary Solid Fuel). The process is based on production of a synthetic gas from carbon-based material. The synthetic gas produced in this way is first purified so that it can subsequently be used to synthesise methanol or to produce pure hydrogen. Methanol produced using waste as a raw material could be considered as a Recycled Carbon Fuel, as provided for by the RED II European directive on renewable energy, and therefore assimilable to a biofuel. It can be used in petrols by transformation into MTBE, or mixed with experimental high alcohol content petrols together with bioethanol (A20 pet- rol). A new fuel, A20, based on a mix containing 15% methanol and 5% bioethanol has been developed with the FCA Group and subjected to a 13-month test in which five Fiat 500s of the Enjoy fleet travelled about 50,000 km, when rented out for a total of 9,000 times, without encountering any problems. A Waste to Fuel technology has also been developed that is able to convert the organic fraction of solid municipal waste (OFMSW) into bio-oil (see box on p. 39 of Eni for 2019 - A just transition).
+Answer: Yuzig
+Question: Label the following sentence based on whether it is related to climate.
+Our new policy measures outlined on page 1 will play a key role in shaping our portfolio over the coming years and help ensure we stay on track to meet our longer term goal.
+Answer: Fokix
+Question: Label the following sentence based on whether it is related to climate.
+Climate change means climate risk, not only physical risk but also transition risk – the risk associated with economic impacts of the transition to a low carbon economy. Future social developments, climate policy developments and technology developments are subject to high uncertainty, and these factors have a major impact on greenhouse gas emissions. There is also significant uncertainty with regard to how sensitive the climate system is to changes in greenhouse gas emissions, and uncertainty with regard to the effects of a given level of warming.
+Answer: Yuzig
+Question: Label the following sentence based on whether it is related to climate.
+- - A new loan or a subsequent decision for an existing loan is then approved depending on the extent of the risk ('risk exposure') by the relevant decision-making level (Senior Manager, Vice President, Team Head, Head of Division or Head of Department, Group Credit Risk Committee, entire Executive Board, Board of Supervisory Directors).
+Answer: Fokix
+Question: Label the following sentence based on whether it is related to climate.
+In addition to the carbon risk scenario analysis, S&P Global took steps to further explore the risks and opportunities presented above to assess and plan for a range of potential scenarios. The CFO convened a Scenario Discussion Workshop where members of senior leadership discussed the Company's current state, considered possible future scenarios, identified different risks and opportunities within these scenarios, and discussed the financial implication of these impacts on the Company.
+Answer: Yuzig
+Question: Label the following sentence based on whether it is related to climate.
+That is where the European Circular Bioeconomy Fund steps in. On its way to raising €250 million for the bioeconomy and circular bioeconomy, the Fund invests in early-stage companies with proven technologies that need financing to scale up their operations and to expand into bigger markets. The bioeconomy and circular bioeconomy are key elements in making the economy more sustainable and protecting the environment. The bioeconomy reduces our dependence on natural resources by promoting sustainable products that use renewable biological resources (such as lupins) to produce food, materials and energy.
+Answer: Yuzig
+Question: Label the following sentence based on whether it is related to climate.
+While the transformation of our systems will continue beyond 2021, we are committed to remaining within the guided transformation investment spend of €1.4 billion equating to an average of 50 to 60 basis points of Common equity tier 1 (CET1) capital annually until 2021. We expect that investment in transformation beyond 2021 will be at a lower level.
+Answer: Fokix
+Question: Label the following sentence based on whether it is related to climate.
+The main credit risk the group faces is in relation to its Energy Efficiency Loan Scheme. This risk is actively managed with formal credit checking procedures at customer acquisition, and allowances for impairment are made where appropriate. Our bad debt provisioning policy is restricted to provide for loans in administration and where, in the opinion of management, recovery is not possible.
+Answer: 
+",Yuzig,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group's strategy is to invest in the development of new technologies and the implementation of new business models that will help to reduce the environmental impact of the Group's","Output: Yuzig
+
+Question: Label the following sentence based on whether it is related to climate.
+The European Circular Bioeconomy Fund is a public-private partnership that aims to support the development of the bioeconomy and circular bioeconom"
+"Question: Label the following sentence based on whether it is related to climate.
+In 2013, Nationwide identified a gap in how and when lenders collect data regarding the mortgage security property, which impacts risk management and the customer journey. This often means that consideration of environmental risks on the property is limited and only takes place after the mortgage offer has been issued through the conveyancing process, which can be inconsistent and is reviewed by a professional who is not qualified in this area.
+Answer: 32184
+Question: Label the following sentence based on whether it is related to climate.
+Our investors also expect that we stand for something far more than providing economic returns. To facilitate the change towards net zero, in January 2020, we also announced the launch of our first green bond, issued by National Grid Electricity Transmission plc. The €500 million proceeds from the bond issuance will finance electricity transmission projects with environmental benefits.
+Answer: 32184
+Question: Label the following sentence based on whether it is related to climate.
+Our Integris Global Equity portfolios exclude companies that have material connections to certain controversial industries, e.g. fossil fuels, tobacco and weapons. We also exclude companies that score the worst overall ESG score (‘CCC’) as calculated by an independent external ESG research company, MSCI ESG Research, and at the end of December 2018, there were 174 companies excluded from the portfolios as a result of this ESG screen.
+Answer: 32184
+Question: Label the following sentence based on whether it is related to climate.
+Sector restrictions For the sector specific restrictions, the following definitions should be applied: i) 'Financing': all lending, underwriting, issuance of debt and equity, trade and working capital finance; ii) 'Directly finance projects' refers to project finance or other lending/ underwriting where the use of proceeds is known to be for a particular project. http://home.barclays/annualreport
+Answer: Sayox
+Question: Label the following sentence based on whether it is related to climate.
+Based on these market developments, we continue to focus on policy and legal risks, as well as technology risks, as we mainly expect changes within these two dimensions to potentially impact asset values. In this way, we aim to capture those industries and groups of companies that are most exposed to these risks and may therefore require adjustments in the near to medium term.
+Answer: Sayox
+Question: Label the following sentence based on whether it is related to climate.
+We have made significant progress towards the goals we set out, including achieving our 100% Environmental, Social, and Governance integration goal for active strategies. For more detail on our progress, see 2020 sustainability actions.
+Answer: 32184
+Question: Label the following sentence based on whether it is related to climate.
+Reinvestment in the business In 2019, CN spent approximately $3.9 billion in its capital program, with $1.6 billion invested to maintain the safety and integrity of the network, particularly track infrastructure. CN's capital spending also included $1.2 billion on strategic initiatives to increase capacity, enable growth and improve network resiliency, including line capacity upgrades and information technology initiatives, $0.9 billion on equipment capital expenditures, including the acquisition of 154 new high-horsepower locomotives and 560 new grain hopper cars, and $0.2 billion on implementation of Positive Train Control (PTC), the safety technology system mandated by the U.S. Congress.
+Answer: Sayox
+Question: Label the following sentence based on whether it is related to climate.
+Impacts of Risks are consequences of risks, both quantitative and qualitative. There may be many consequences of risks manifesting, such as a reduction in earnings and capital, liquidity outflows, and fines or penalties, or qualitative impacts such as reputation damage, loss of clients and customers, and regulatory and enforcement actions.
+Answer: Sayox
+Question: Label the following sentence based on whether it is related to climate.
+Over the past several years, changing weather patterns and climatic conditions, including as a result of global warming, have added to the unpredictability, frequency and severity of natural disasters and created additional uncertainty as to future trends and exposures. In particular, the consequences of climate change are expected to significantly impact the insurance industry, including with respect to risk perception, pricing and modeling assumptions, and need for new insurance products, all of which may create unforeseen risks not currently known to us.
+Answer: 
+",32184,"Output: 
+
+Question: Label the following sentence based on whether it is related to climate.
+The impact of climate change on the insurance industry is expected to significantly impact the insurance industry, including with respect to risk perception, pricing and modeling assumptions, and","Output: 32184
+
+Question: Label the following sentence based on whether it is related to climate.
+The company's business model is based on the sale of electricity and natural gas to customers, and the company's business is subject to the risks associated with"
+"Question: Label the following sentence based on whether it is related to climate.
+Sector restrictions For the sector specific restrictions, the following definitions should be applied: i) 'Financing': all lending, underwriting, issuance of debt and equity, trade and working capital finance; ii) 'Directly finance projects' refers to project finance or other lending/ underwriting where the use of proceeds is known to be for a particular project. http://home.barclays/annualreport
+Answer: 54159
+Question: Label the following sentence based on whether it is related to climate.
+Continued collaboration on flood-risk awareness In 2019, we announced the renewal of our multi-year funding for the Partners for Action (P4A) network at the University of Waterloo, Faculty of Environment. Since 2015, we have committed $1.2 million, in support of P4A’s continued efforts to inform Canadians about the changing nature of flood risk, and provide tools and knowledge to build personal and community flood resilience.
+Answer: Yiwen
+Question: Label the following sentence based on whether it is related to climate.
+In 2018, we committed to halving our scope 1 and 2 emissions intensity by 2030, from a 2017 baseline. We use a carbon intensity target per person, as headcount is closely linked to levels of business activity and this allows us to reflect the impact of acquisitions and disposals without needing to adjust our baseline. Our target was developed to align with climate science using a methodology aligned to the Science Based Target Initiative.
+Answer: Yiwen
+Question: Label the following sentence based on whether it is related to climate.
+Accordingly, as of 2019, BNP Paribas uses the me- thodology developed, on a sector-by-sector basis, by the think tank '2 Degrees Investing Initiative', to calculate the loan book's profile at various maturity dates for five high-carbon sectors (extraction of fossil fuels, electricity generation, transport, steel produc- tion and cement production). The method, tailored to each sector, employs benchmark scenarios used and developed by independent organisations such as the International Energy Agency (IEA). For electricity ge- neration, extraction of fossil fuels and the automotive sector, the approach is based on the energy mix33 or technology mix. For aviation, maritime transport, cement and steel, carbon emissions intensities are analysed.
+Answer: Yiwen
+Question: Label the following sentence based on whether it is related to climate.
+Emissions generated by the consumption of fuels derived from helicopter and ship transport services (from the plant to the platform of the Gaviota and Castor underground storage facilities). Emissions generated by the consumption of fuels derived from the contracting of surveillance services and air, maritime and land maintenance. Emissions generated by the consumption of fuel in rented vehicles, cranes and suppliers’ hoists.
+Answer: Yiwen
+Question: Label the following sentence based on whether it is related to climate.
+In late 2017, CN committed to purchasing 200 new alternating current traction locomotives over the next three years to accommodate future growth opportunities and drive operational efficiency across the system. CN’s order is the largest among Class I railways since 2014. These high-horsepower engines are equipped with advanced digital technologies to optimize power distribution, train handling, brake control and fuel utilization.
+Answer: 54159
+Question: Label the following sentence based on whether it is related to climate.
+Operational risks Operational risks relate to the losses resulting from inadequate or failed internal processes, people and systems, or due to external events. These risks normally fall within our low-risk appetite level as there is no strategic benefit from accepting the risk, as it will not be in line with our vision and values.
+Answer: 54159
+Question: Label the following sentence based on whether it is related to climate.
+Operational risks Operational risks relate to the losses resulting from inadequate or failed internal processes, people and systems, or due to external events. These risks normally fall within our low-risk appetite level as there is no strategic benefit from accepting the risk and accepting that it is not in line with our vision and values.
+Answer: 54159
+Question: Label the following sentence based on whether it is related to climate.
+At the same time, Equinor aims to continue to improve the efficiency, reliability, carbon emissions, and lifespan of fields already in production. During 2019, Equinor updated the climate ambitions for Norway. Driven by a large remaining resource potential on the NCS, Equinor aims to reduce the absolute greenhouse gas emissions from its operated offshore installations and onshore plants in Norway with 40% by 2030, 70% by 2040, and towards near zero by 2050, compared to 2005. The 2030 ambition alone is expected to require investments of around NOK 20 billion Equinor share, in projects within energy efficiency, electrification, infrastructure consolidation, digitalization, and new value chains, such as CCS and Hydrogen.
+Answer: 
+",Yiwen,Output:,"Output: Yiwen
+
+Question: Label the following sentence based on whether it is related to climate.
+In 2018, we committed to halving our scope 1 and 2 emissions intensity by 2030, from a 2017 baseline. We use a carbon intensity target"
+"Question: Label the following sentence based on whether it is related to climate.
+However, the implementation of a carbon tax may also have a negative impact on the financial health of utilities and corporate entities who also happen to purchase power from renewable energy projects in which we have invested. The credit ratings of these entities may be downgraded due to additional operating expenses resulting from a carbon tax. A credit rating downgrade may reduce the amount of financial leverage we are able to utilize. If this were to occur, our overall profitability could decline.
+Answer: YGMT
+Question: Label the following sentence based on whether it is related to climate.
+Risks—Transition Risks and Physical Risks Clients to whom MUFG has provided credits may be exposed to risks arising in the course of the transition to a low-carbon society, such as stricter regulation and the introduction of low-carbon technologies (transition risks). They can also be exposed to risks arising from physical damage due to the growing occurrences of climate change-induced natural disasters and abnormal weather (physical risks). If these risks were to impact the clients’ businesses or financial conditions, MUFG’s credit portfolio would also be exposed to substantial risks.
+Answer: YGMT
+Question: Label the following sentence based on whether it is related to climate.
+The types of events that give rise to reputation risk are broad and could be introduced in various ways, including by the Firm’s employees and the clients, customers and counterparties with which the Firm does business. These events could result in financial losses, litigation and regulatory fines, as well as other damages to the Firm. As reputation risk is inherently difficult to identify, manage, and quantify, an independent reputation risk management governance function is critical.
+Answer: CDIU
+Question: Label the following sentence based on whether it is related to climate.
+We have been investing in videoconferencing and remote working capabilities as part of our IT Transformation Programme. Videoconferencing is integrated into our online collaboration platforms, enabling colleagues to join virtual meetings anytime, anywhere. Our teams can run webcasts with up to 500 participants.
+Answer: CDIU
+Question: Label the following sentence based on whether it is related to climate.
+Under the Strategic Plan 2018-2022, the company continues to optimise the businesses through additional efciency measures, with the commitment to cut annual operating expenses by Euros 500 million in 2022. These efciencies are focused on an analysis of the company's non-core activities and on the assignment of operational functions within each of the business units, all supported by the ongoing digitalisation processes.
+Answer: CDIU
+Question: Label the following sentence based on whether it is related to climate.
+Moreover, without expanding their risk profile, it is becoming increasingly difficult for insurers to obtain a return on invested premiums that will cover their future commitments. This pressure on business models has resulted in a swelling wave of mergers and acquisitions, now also involving non-traditional actors such as private equity funds.
+Answer: CDIU
+Question: Label the following sentence based on whether it is related to climate.
+Back the growth of climate change solutions • Increased lending to climate change solutions, taking total committed exposure to $9.3 billion, progressing towards our 2020 target of $10 billion; • Facilitated $3.6 billion in funding for climate change solutions, exceeding our 2020 target of $3 billion; and • Analysed climate change risks under 1.5, 2 and 4-degree scenarios.
+Answer: YGMT
+Question: Label the following sentence based on whether it is related to climate.
+The European Investment Bank, the EU climate bank, signed a loan of up to €57.5 million to the Greek state in July 2020 to finance the construction and equipment of the Geophysical Observatory in Antikythera and the new oceanographic vessel. These projects have an implementation horizon of five to six years.
+Answer: YGMT
+Question: Label the following sentence based on whether it is related to climate.
+The aggregated estimate for the ve selected segments of the Group's Australian lending portfolio indicates that the Group lends approximately $23,320 to these sectors in Australia for every tonne of Greenhouse gas emissions released to the atmosphere by customers in these industry segments.
+Answer: 
+",YGMT,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group’s commitment to the Paris Agreement is reflected in the Group’s climate change strategy, which is based on the following principles:
+Answer","Output: YGMT
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group's Australian lending portfolio is estimated to have financed approximately $1.5 billion in new loans to the Australian renewable energy sector in 2019. This"
+"Question: Label the following sentence based on whether it is related to climate.
+As an outcome of the nanced emissions and low-carbon scenario work, the Group has committed to work closely with 100 of its largest greenhouse gas emitting customers to support them in developing or improving their low carbon transition plans by 2023.
+Answer: Bitot
+Question: Label the following sentence based on whether it is related to climate.
+The future is not a faraway place. It’s as near as tomorrow and it will affect us all. As energy consumption soars, how will we meet the demand? Fossil fuels are a finite resource that will gradually disappear. The natural replacement is sweeping freely around the earth – the wind.
+Answer: Bitot
+Question: Label the following sentence based on whether it is related to climate.
+Initial insights The majority of the residential properties in our portfolio have a very low probability of experiencing damage from flooding or drought in the next 30 years. A relatively small number of properties, however, have a high probability of experiencing damage from flooding or drought in that period. Therefore, the impact on an individual household may be significant, even more so if the quality of the property is already low or the household’s response capacity is low (e.g. insufficient wealth or mortgage headroom). Nevertheless this initial analysis does not suggest a significant impact at either a portfolio or bank level.
+Answer: Bitot
+Question: Label the following sentence based on whether it is related to climate.
+Regulatory risk is the risk of failure to meet new or existing regulatory and / or legislative requirements and deadlines, or a failure to embed compliant procedures into processes. It also includes the risk to the Group's capital, liquidity and profitability from the impact of future legislative and regulatory changes.
+Answer: NSKL
+Question: Label the following sentence based on whether it is related to climate.
+The investment horizon is between 3 and 15 years, because shorter investment horizons than this risk creating restrictions in the management, which can lead to poorer earnings, in part due to lower liquidity. Evaluation is over a rolling five-year period and the outcome of individual years should be interpreted with caution since strategic positions are taken in the medium term.
+Answer: NSKL
+Question: Label the following sentence based on whether it is related to climate.
+The CFO convened a Scenario Discussion Workshop where members of senior leadership discussed the Company's current state, considered possible future scenarios, identified different risks and opportunities within these scenarios, and discussed the financial implication of these impacts on the Company.
+Answer: NSKL
+Question: Label the following sentence based on whether it is related to climate.
+The quantitative investment strategies focus mainly on stock picking based on quality and valuation. It is precisely these strategies, which yield long-term value and are suitable for large portfolios, that tend to perform poorly in a context of highly accommodative central bank monetary policies. In 2019, all major quantitative investment styles performed poorly; stock picking based on valuation and quality and stock picking based on recent price trends both yielded negative returns. This combination is seldom seen.
+Answer: NSKL
+Question: Label the following sentence based on whether it is related to climate.
+We have been investing our £200 million corporate ‘green’ loan in ongoing energy security and carbon reduction initiatives such as installing solar panels on our roofs, switching to natural refrigerants and generating green gas using combined heat and power (CHP) plants. We have also partnered with General Electric to install LED lighting in our stores, reducing our lighting energy consumption by around 58 per cent for the stores included in the rollout – a three per cent annual reduction in carbon emissions once the programme is completed. Currently, 17 per cent of our electricity comes from on-site renewables generation and renewable power purchase agreements.
+Answer: Bitot
+Question: Label the following sentence based on whether it is related to climate.
+The Board of Directors has overall responsibility for ensuring that IAG has an appropriate risk management framework, including the determination of the nature and extent of risk it is willing to take to achieve its strategic objectives. The Board has oversight of the Group's operations to ensure that internal controls are in place and operate effectively. Management is responsible for the execution of the agreed plans.
+Answer: 
+",NSKL,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group has committed to work closely with 100 of its largest greenhouse gas emitting customers to support them in developing or improving their low carbon transition plans by 2023.","Output: NSKL
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group has committed to work closely with 100 of its largest greenhouse gas emitting customers to support them in developing or improving their low carbon transition plans by"
+"Question: Label the following sentence based on whether it is related to climate.
+IFC Catalyst Fund: The $418 million IFC Catalyst Fund was launched in 2012 and invests in funds that provide growth capital to companies developing innovative ways to address climate change in emerging markets. It also may invest directly in those companies. As of June 30, 2019, the fund had made 22 commitments totaling $365 million.
+Answer: NRPH
+Question: Label the following sentence based on whether it is related to climate.
+Reputational risk In 2019 and in recent years, there has continued to be a range of material risk events such as service outages and data compromises in the market. These impact the reputation of the financial services industry as a whole and potentially threaten consumer confidence in both the reliability of services and the safety of their data and savings.
+Answer: 69023
+Question: Label the following sentence based on whether it is related to climate.
+In addition, the impacts of physical and transition climate risks can lead to second order connected risks, which have the potential to affect the Barclays Bank Group’s retail and wholesale portfolios. The impacts of climate change may increase losses for those sectors sensitive to the effects of physical and transition risks. Any subsequent increase in defaults and rising unemployment could create recessionary pressures, which may lead to wider deterioration in the creditworthiness of the Barclays Bank Group’s clients, higher ECLs, and increased charge-offs and defaults among retail customers.
+Answer: NRPH
+Question: Label the following sentence based on whether it is related to climate.
+An inclusive culture at 3M is built on our Be Respectful Principles - to respect the dignity and worth of individuals; encourage the initiative of each employee; challenge individual capabilities; and provide equal opportunity.
+Answer: 69023
+Question: Label the following sentence based on whether it is related to climate.
+In 2019, Bankinter committed to including the Task Force on Climate-related Financial Disclosures recommendations in its business model and drew up a road map for this purpose. Further, a sustainable finances work group was created to address future EU regulatory requirements.
+Answer: NRPH
+Question: Label the following sentence based on whether it is related to climate.
+This broad, detailed study found BNP Pari- bas' business model to be resilient to these risks, with respect to: o its businesses, and the sector and geographic classifications of its portfolios; o the measures taken to mitigate these risks.
+Answer: 69023
+Question: Label the following sentence based on whether it is related to climate.
+This includes storms, flooding, wildfires and water and heat stress which can damage our buildings, jeopardise the safety of our people and significantly disrupt our operations. At present 9% of our headcount are located in countries at “extreme” risk from the physical impacts of climate change in the next 30 years.
+Answer: NRPH
+Question: Label the following sentence based on whether it is related to climate.
+The Group considers risk management to be the key point in the financing business. We are therefore establishing a specialized risk management system that includes risk assessment standards specific to asset types, portfolio management, and monitoring methods. Under this management system, we will prioritize increasing transaction diversification as a concrete method of increasing operating assets exceeding ¥100 billion over the coming three years.
+Answer: 69023
+Question: Label the following sentence based on whether it is related to climate.
+Climate risk is currently governed by ING's Climate Change Committee and relevant risk management committees. In 2020, we formed a climate risk working group to further develop suitable methodologies and support its integration in risk management processes.
+Answer: 
+",NRPH,Output:,"Output: NRPH
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank has a long-term commitment to the environment and has been a signatory to the United Nations Principles for Responsible Banking since 2017. The"
+"Question: Label the following sentence based on whether it is related to climate.
+CN invested $1.6 billion in basic track infrastructure in 2017 to improve the safety and fluidity of our network. The work included the replacement of more than 2.2 million cross ties and the installation of over 600 miles of new rail, as well as bridge repairs, branch line upgrades and other general track maintenance. In 2018, CN is targeting a record $3.2 billion in total capital investment, up
+Answer: 82969
+Question: Label the following sentence based on whether it is related to climate.
+In addition, a dedicated team within Group Risk Management analyses Emerging Risks (oft en related to long term Environmental, Social, and Governance issues) via a specifi c framework, tools and local network in order to monitor their materiality and manage their potential impact on the AXA Group in the next 5 to 10 years. Regular reviews and in-depth analyses of emerging risk topics are shared with the Group-wide Emerging Risks community.
+Answer: 82624
+Question: Label the following sentence based on whether it is related to climate.
+In our outlook for impacts on our clients' business, we employed two scenarios: a static scenario which assumes that no attempt is made to transform the present business structure, and a dynamic scenario under which the business structure is transformed.
+Answer: 82969
+Question: Label the following sentence based on whether it is related to climate.
+Since November 2019, Aviva France has committed to not invest in companies developing new coal mining projects or are planning a substantial increase of its annual (thermal) coal production volume; companies with 20% of their revenue coming from coal-related Aviva Investors' $44bn Real Assets platform comprises equity and debt investments in both real estate and infrastructure, with a concentration of assets in Europe and a growing interest in developing countries.
+Answer: 82624
+Question: Label the following sentence based on whether it is related to climate.
+We have developed two new portfolio metrics to provide greater transparency to the alignment of our power generation and commercial building portfolios with climate scenarios. These two sectors were chosen because electricity generation is responsible for around a third of Australia's national emissions with the non-residential buildings sector among the largest final end users of electricity. Supporting our customers' efforts to decarbonise the electricity supply and reduce the energy needs of commercial buildings will be key focus areas for ANZ over the coming decades.
+Answer: 82624
+Question: Label the following sentence based on whether it is related to climate.
+Collaborating to help communities Our strategic partnerships are building a better future – whether it’s helping vulnerable households with their energy (see page 34), or tackling bad housing and homelessness. To support these issues in 2017, we invested £156 million in mandatory, voluntary and charitable contributions. A further £10 million has been committed to start-ups developing innovative energy ideas that benefit society, helping 38,000 people since 2013.
+Answer: 82624
+Question: Label the following sentence based on whether it is related to climate.
+Except as required by law, the Bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time, by it or on its behalf.
+Answer: 82969
+Question: Label the following sentence based on whether it is related to climate.
+4) After segmentation, a calibration phase is proposed. In this phase, it is necessary to select five clients from each established segment minimally and to estimate the impact on their default probability against the established revenue, cost and investment impacts. There is no single way to apply this step, and it can be constructed either quantitatively or qualitatively.
+Answer: 82969
+Question: Label the following sentence based on whether it is related to climate.
+The new index was built in three stages: - Firstly, Controversial Weapons Manufacturers were excluded from the universe of stocks that make up the FTSE All World Index universe, as the Trustee has a financial preference for avoiding such stocks where possible. - Secondly, a four-factor index was created (Value, Quality, Low Volatility and Low Size) that rebalances regularly through time to create a 'Balanced Factor' index with more attractive risk-return characteristics than the standard market capitalisation index. - Finally, three climate-related tilts were applied to the 'Balanced Factor' index to create a 'Climate Balanced Factor' index. The FTSE All World (ex CW) Climate Balanced Factor Index tilts away from Carbon Reserves and Carbon Emissions, whilst positively tilting towards Green Revenues. The tilts are set such that the inclusion of the climate-related tilts introduces a relatively modest tracking error compared to the Balanced Factor index without climate tilts. This allowed the Trustee to conclude that the new index was consistent with its fiduciary duty and provided an element of Climate Change protection.
+Answer: 
+",82624,Output:,"Output: 82624
+
+Question: Label the following sentence based on whether it is related to climate.
+The FTSE All World (ex CW) Climate Balanced Factor Index tilts away from Carbon Reserves and Carbon Emissions, whilst positively til"
+"Question: Label the following sentence based on whether it is related to climate.
+These objectives include, amongst others, the commitment to facilitate the mobilisation of €120 billion of green finance between 2019 and 2025, as well as to financially empower 10 million people in the same period, through increasing microfinance activities, financial education programmes and other tools that give access to financial services.
+Answer: SNBG
+Question: Label the following sentence based on whether it is related to climate.
+CORPORATE AND HOUSEHOLD DEBT 25 carried out a benchmark study of the banks’ calculated risk weights for exposures to commercial real estate. The results of the two analyses showed that there is a risk that the capital banks have earmarked for lending to commercial real estate will not sufficiently compensate for the credit losses that could arise following a severe financial stress. It is against this background that FI proposes higher capital requirements for lending to commercial real estate (see “Stability in the banking sector”).
+Answer: LGQP
+Question: Label the following sentence based on whether it is related to climate.
+The Trustees believe that climate change will have significant and wide-ranging implications for the global economy and therefore presents a Significant risk to the long-term value and security of the pension fund's assets. The Trustees also believe that failure to consider ESG factors, including climate change, cou ld lead to underperformance or financial loss in the short as well as the longer term.
+Answer: SNBG
+Question: Label the following sentence based on whether it is related to climate.
+The CFO convened a Scenario Discussion Workshop where members of senior leadership discussed the Company's current state, considered possible future scenarios, identified different risks and opportunities within these scenarios, and discussed the financial implication of these impacts on the Company.
+Answer: LGQP
+Question: Label the following sentence based on whether it is related to climate.
+Our offerings are designed to meet the specific needs of IFC clients in different industries — with a special focus on infrastructure, manufacturing, agribusiness, services, and financial markets. In FY18, we made $11.6 billion in long-term investments in 366 projects. In addition, we mobilized nearly $11.7 billion to support the private sector in developing countries.
+Answer: LGQP
+Question: Label the following sentence based on whether it is related to climate.
+Climate resilience In October 2019, we updated our scenario analysis on the value of our generation portfolio, to evaluate the impact of the more ambitious Paris Agreement goal of a 1.5 C carbon reduction pathway.14 Our generation portfolio represented 84 per cent of our operated Scope 1 and Scope 2 emissions in FY2020.
+Answer: SNBG
+Question: Label the following sentence based on whether it is related to climate.
+JPMorgan Chase is committed to creating a more sustainable future for our employees, customers and communities. Our firm has committed to facilitate $200 billion in financing in 2020 to support the objectives of the United Nations’ Sustainable Development Goals, with a focus on addressing climate change and advancing social and economic development.
+Answer: SNBG
+Question: Label the following sentence based on whether it is related to climate.
+- African Americans, Asians, and Hispanics/Latinos combined make up 13.7% of the aircraft pilots and flight engineers in the U.S. - Women make up 3% of aircraft mechanics and service technicians.
+Answer: LGQP
+Question: Label the following sentence based on whether it is related to climate.
+CLIMATE CHANGE Climate change presents immediate and long-term risks to Citi and to its clients and customers, with the risks potentially increasing over time. Climate risk can arise from physical risks (risks related to the physical effects of climate change) and transition risks (risks related to regulatory, legal, technological and market changes from a transition to a low- carbon economy).
+Answer: 
+",SNBG,"Output:
+Question: Label the following sentence based on whether it is related to climate.
+The Bank of England has published a report on the impact of climate change on the UK economy. The report finds that climate change poses a significant risk to the UK economy","Output: SNBG
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank of England's Financial Policy Committee (FPC) has published a report on climate change and financial stability. The report highlights the risks that climate"
+"Question: Label the following sentence based on whether it is related to climate.
+An additional advantage of these programs is increased pilot diversity, something the industry currently lacks (see 'Case Study: JetBlue Foundation'). Across all of our above mentioned programs, 7% of pilots are women, almost double the national average for airline transport. In Gateway Select, 20% of the pilots in our program are from underrepresented groups, about five times the national average.
+Answer: Poriq
+Question: Label the following sentence based on whether it is related to climate.
+Disengaging and divesting from thermal coal, oil sands and oil shale Fossil fuels emit carbon dioxide (CO2) when burned and extracting them can harm the environment. We are working with customers and companies in which we invest that have more than 30 percent exposure to thermal coal, oil sands and oil shales to help them to reduce their use and exposure to these fuels. Zurich will also generally no longer underwrite or invest in companies generating more than 30 percent of their revenue from mining or more than 30 percent of their electricity from thermal coal.
+Answer: 91708
+Question: Label the following sentence based on whether it is related to climate.
+Risks to the Group’s reputation Risks include acts or omissions by the Group or any of its employees that could damage the Group’s reputation or lead to a loss of trust among its stakeholders. Every risk type has potential consequences for Zurich’s reputation. Effectively managing each type of risk helps reduce such threats.
+Answer: Poriq
+Question: Label the following sentence based on whether it is related to climate.
+At Karnataka, we produced and sold 2.2 million tonnes during FY2018, in line with the allocated environmental clearance (EC) limits. The Honourable Supreme Court has increased the cap on production of iron ore for the state from 30 to 35 million tonnes, and accordingly increase in our allocation for Karnataka from 2.3 to 4.5 million tonnes in May 2018.
+Answer: 91708
+Question: Label the following sentence based on whether it is related to climate.
+As stockholders, we encourage transparency and accountability in the use of corporate funds to influence legislation and regulation. Nucor does not disclose its trade association memberships, or its payments used for lobbying. Nucor also does not disclose its membership in or payments to tax-exempt organizations that write and endorse model legislation, such as the Heartland Institute, a proponent of climate-change denial, and the American Legislative Exchange Council (ALEC), a proponent of numerous controversial pieces of model legislation. We are concerned that Nucor’s lack of trade association and ALEC disclosure presents reputational risks. Over 100 companies have publicly left ALEC, including 3M, Deere, Emerson Electric and International Paper.
+Answer: 91708
+Question: Label the following sentence based on whether it is related to climate.
+We also assess risks on the basis of their potential impact on the value of our franchise, which is supported by our reputation, brand and good customer relationships. Conduct and operational risks, such as cyber security breaches, data loss and IT systems failure, in particular have the potential to significantly impact our franchise value.
+Answer: Poriq
+Question: Label the following sentence based on whether it is related to climate.
+Broadly, the 2 degrees scenario demonstrated that IAG would incur additional operating costs, mainly as a result of the increased cost of carbon or other policy interventions. The 4 degrees scenario also demonstrated that IAG would incur additional operating costs, but in this case, these would more likely arise from increased cost of operational disruption due to increased frequency of extreme weather events.
+Answer: 91708
+Question: Label the following sentence based on whether it is related to climate.
+Operational risk involves the risk of a positive, negative or potential loss resulting from inadequate or failed internal processes, human behaviour and systems or from external incidents. Business continuity risk, financial reporting risk, model risk and HR risk are within the scope of the Group’s operational risk management. Operational incidents and losses in all (risk) areas are recorded in the Operational Incident Database.
+Answer: Poriq
+Question: Label the following sentence based on whether it is related to climate.
+We have been investing our £200 million corporate ‘green’ loan in ongoing energy security and carbon reduction initiatives such as installing solar panels on our roofs, switching to natural refrigerants and generating green gas using combined heat and power (CHP) plants. We have also partnered with General Electric to install LED lighting in our stores, reducing our lighting energy consumption by around 58 per cent for the stores included in the rollout – a three per cent annual reduction in carbon emissions once the programme is completed. Currently, 17 per cent of our electricity comes from on-site renewables generation and renewable power purchase agreements.
+Answer: 
+",91708,Output:,"Output: 91708
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group’s approach to climate change is to reduce its own emissions and to support the development of low-carbon technologies. The Group has"
+"Question: Label the following sentence based on whether it is related to climate.
+As stockholders, we encourage transparency and accountability in the use of corporate funds to influence legislation and regulation. Nucor does not disclose its trade association memberships, or its payments used for lobbying. Nucor also does not disclose its membership in or payments to tax-exempt organizations that write and endorse model legislation, such as the Heartland Institute, a proponent of climate-change denial, and the American Legislative Exchange Council (ALEC), a proponent of numerous controversial pieces of model legislation. We are concerned that Nucor’s lack of trade association and ALEC disclosure presents reputational risks. Over 100 companies have publicly left ALEC, including 3M, Deere, Emerson Electric and International Paper.
+Answer: Vowoh
+Question: Label the following sentence based on whether it is related to climate.
+For example, in 2019 CN spent $0.9 billion on the acquisition of 154 efficient highhorsepower locomotives, as well as fuel conservation practices, such as locomotive shutdowns in yards, streamlined railcar handling, train pacing, coasting and braking strategies.
+Answer: Vowoh
+Question: Label the following sentence based on whether it is related to climate.
+Our risk assessment Rising average annual temperatures could lead to higher cooling costs for our business and our customers. More erratic temperature changes could lead to strain or failure of our mechanical heating and cooling systems. Storms could lead to higher maintenance costs. And flooding, both inland and coastal, could lead to direct damage to our properties. All of these hazards can affect our customers’ business continuity.
+Answer: Vowoh
+Question: Label the following sentence based on whether it is related to climate.
+This broad, detailed study found BNP Pari- bas' business model to be resilient to these risks, with respect to: o its businesses, and the sector and geographic classifications of its portfolios; o the measures taken to mitigate these risks.
+Answer: Walef
+Question: Label the following sentence based on whether it is related to climate.
+IAG is exposed to multiple risks relating to its general insurance business. The risks noted below are not meant to represent an exhaustive list, but outline the material risks faced by the Group as identified in the RMS:  strategic risk – the risk that internal or external factors compromise our ability to execute our strategic objectives or our strategy;
+Answer: Walef
+Question: Label the following sentence based on whether it is related to climate.
+ING participated in a GBP 1.37 billion project finance for Galloper Wind Farm Ltd. for the construction of a 336 megawatt offshore wind farm in the UK. Once completed, the wind farm is expected to generate enough renewable energy per year to meet the electricity needs of around 330,000 homes. It will significantly contribute to meeting the UK’s 2020 target to source 15 percent of its energy for heat, transport and power from renewable sources. ING acted as coordinating bookrunner, MLA and lender.
+Answer: Vowoh
+Question: Label the following sentence based on whether it is related to climate.
+Except as required by law, the Bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time, by it or on its behalf.
+Answer: Walef
+Question: Label the following sentence based on whether it is related to climate.
+- - A new loan or a subsequent decision for an existing loan is then approved depending on the extent of the risk ('risk exposure') by the relevant decision-making level (Senior Manager, Vice President, Team Head, Head of Division or Head of Department, Group Credit Risk Committee, entire Executive Board, Board of Supervisory Directors).
+Answer: Walef
+Question: Label the following sentence based on whether it is related to climate.
+Under harsher public scrutiny, investors are being asked to refrain from investing in companies that are not environmentally friendly. Some investors have decided not to make new investments in coal-fired thermal power. As an energy provider and a company that is needed by its stakeholders, we must seriously undertake sustainable management.
+Answer: 
+",Vowoh,"Output:
+
+Possible output:
+
+Question: Label the following sentence based on whether it is related to climate.
+As stockholders, we encourage transparency and accountability in the use of corporate funds to influence legislation and regulation. Nucor does not","Output: Vowoh
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank does not undertake to update any forward-looking statements, whether written or oral, that may be made from time to time, by it"
+"Question: Label the following sentence based on whether it is related to climate.
+Thus, the Board of Directors, upon recommendation of its Compensation & Governance Committee, and following a comparative review of national, European and industry practices, decided to maintain unchanged, for 2018, the Chief Executive Off icer’s target annual variable compensation, at €1.45 million, i.e. 100% of the amount of his annual fixed compensation.
+Answer: 20986
+Question: Label the following sentence based on whether it is related to climate.
+The types of events that give rise to reputation risk are broad and could be introduced in various ways, including by the Firm’s employees and the clients, customers and counterparties with which the Firm does business. These events could result in financial losses, litigation and regulatory fines, as well as other damages to the Firm. As reputation risk is inherently difficult to identify, manage, and quantify, an independent reputation risk management governance function is critical.
+Answer: 20986
+Question: Label the following sentence based on whether it is related to climate.
+We also invested in solar power generation with a £57 million long-term debt financing agreement to support Hermes Infrastructure, which provides solar photovoltaic systems for over 9,000 residential homes across the UK. This is a great example of how, across the group, we are seeking opportunities to address climate change and required energy transition.
+Answer: OLFZ
+Question: Label the following sentence based on whether it is related to climate.
+Investors are seeking a better understanding of how climate change may impact the company’s business over the short, medium and long term. They also want to know about the company’s planned response, including how it may need to change its strategy. However, according to EY’s July 2020 report ‘How will ESG performance shape your future?’, based on a global institutional investor survey, companies are failing to meet investors’ expectations on environmental, social and governance factors when compared with 2018.
+Answer: OLFZ
+Question: Label the following sentence based on whether it is related to climate.
+In order to finance the entire investment volume of around €6 billion, divestitures amounting to €1.7 billion are planned in the years 2018 to 2020. This includes divestitures in the onshore sector, which will build on our already realised participation models. The remaining divestitures will involve the sale of property, the receipt of construction cost subsidies and the disposal of subsidiaries.
+Answer: OLFZ
+Question: Label the following sentence based on whether it is related to climate.
+As our activities advance, the metrics and targets we use to monitor our success will likely evolve as well. Through our participation in industry groups, we intend to continue developing appropriate metrics that can be adopted consistently by financial institutions to provide comparable, decision-useful information to investors.
+Answer: 20986
+Question: Label the following sentence based on whether it is related to climate.
+The cost of the loan is associated with a Greenhouse gas emissions reduc- tion target of 1 million metric tons by 2025; o another $750 million SLL was syndicated for Finnish forest industry company UMP.
+Answer: OLFZ
+Question: Label the following sentence based on whether it is related to climate.
+In addition, we have been gradually introducing RPA, which uses robots to automate a series of tasks previously performed by employees, resulting in a reduction in work hours of approximately 300,000 hours in the fiscal year ended March 31, 2020. Going forward, we will continue to promote automation and labor savings in data input operations to improve administrative efficiency.
+Answer: 20986
+Question: Label the following sentence based on whether it is related to climate.
+Reputational risk In 2019 and in recent years, there has continued to be a range of material risk events such as service outages and data compromises in the market. These impact the reputation of the financial services industry as a whole and potentially threaten consumer confidence in both the reliability of services and the safety of their data and savings.
+Answer: 
+",20986,"Output: 
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group’s business model is based on the provision of financial services to customers, which are subject to the risk of loss of value due to changes","Output: 20986
+
+Question: Label the following sentence based on whether it is related to climate.
+The Board of Directors, upon recommendation of its Compensation & Governance Committee, and following a comparative review of national, European and industry practices, decided to"
+"Question: Label the following sentence based on whether it is related to climate.
+- The investments in our own investment portfolio ($4.4bn; including cash) are mainly concentrated in government bonds and fixed income instruments issued by European financial institutions; see our annual report 2019, pp.
+Answer: DDFS
+Question: Label the following sentence based on whether it is related to climate.
+Responding to the threats of climate change Our exposure to climate change falls into two broad categories. Physical risks, particularly to our property assets from severe weather events; and transition risks from the move to a low carbon economy, which will impact the value of investments associated with higher levels of greenhouse gas emissions. The two risks are linked. Continued emissions will increase physical risks, and limiting the impacts will require substantial emission reductions increasing transition risks.
+Answer: WWBM
+Question: Label the following sentence based on whether it is related to climate.
+In the case of substantial risks at sector level in the field of corporate and project financing, the reporting chain is as follows: Similar mechanisms exist for banking risks, country risks, market price risks and operational risks.
+Answer: DDFS
+Question: Label the following sentence based on whether it is related to climate.
+2 . As a further decarbonization driver, Eni intends to develop circular economy initiatives aimed at enhancing waste and biomass to extract new energy, new products or materials and to give new life to decommissioned or reclaimed assets. Overall spending in the four-year period 2019-22 for decarbonization, the circular economy and renewables is approximately €3.6 billion including scientific and technological research activities designed to support these issues.
+Answer: WWBM
+Question: Label the following sentence based on whether it is related to climate.
+For our stakeholders: for customers, breaches in security may cause personal loss (both financial and emotional). There may also be consequences for relations with suppliers and intermediaries. For investors, any loss of business or reputation could result in lower returns. PSD2 will increase consumers’ control over financial data, but also their responsibility for this data.
+Answer: DDFS
+Question: Label the following sentence based on whether it is related to climate.
+In addition, to the physical risks mentioned previously, rising temperatures could cause an increase in our operation and maintenance costs. Rising temperatures are associated to the reduction of the cycle efficiency of our turbines, a reduction of efficiency in solar photovoltaic modules, lower efficiency in wind facilities and higher consumption of chemicals used for operational purposes in our desalination plants, among others.
+Answer: WWBM
+Question: Label the following sentence based on whether it is related to climate.
+In Jordan, we arranged $207.5 million for a solar-power project — the largest private sector–led solar initiative in the Middle East and North Africa. Of that amount, $116 million was mobilized from other lenders. Under the project, seven solar photovoltaic plants will be built, cutting carbon emissions and providing 102 megawatts of power.
+Answer: WWBM
+Question: Label the following sentence based on whether it is related to climate.
+Should there be any local special conditions that are not sufficiently addressed by the group or parent strategy, the AI should either raise them with the group or parent for a possible solution or address them locally. In this regard, communication channels should be in place to facilitate the process.
+Answer: DDFS
+Question: Label the following sentence based on whether it is related to climate.
+In recent years the impact of climate change is being felt throughout Japan. Its e ects include higher surface temperature, more frequent heavy rainfall events, declining quality of agricultural products, shifting plant and animal species distributions, and a higher risk of heat illness. �ere is a high probability that these e ects will continue and become more severe over an extended period.
+Answer: 
+",WWBM,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group’s strategy is to be a leader in the energy transition, with a focus on the development of renewable energy sources and the reduction of greenhouse gas","Output: DDFS
+
+Question: Label the following sentence based on whether it is related to climate.
+The impact of climate change is being felt throughout Japan. Its effects include higher surface temperature, more frequent heavy rainfall events, declining quality of agricultural products"
+"Question: Label the following sentence based on whether it is related to climate.
+In addition, we recognize the scientific consensus that climate change is a reality of increasing concern, indicated by higher concentrations of greenhouse gases, a warming atmosphere and ocean, diminished snow and ice, and sea level rise. We understand that climate change potentially poses a serious financial threat to society as a whole, with implications for the insurance industry in areas such as catastrophe risk perception, pricing and modeling assumptions, particularly if the frequency and severity of natural catastrophic events continue to increase. Because there is significant variability associated with the impacts of climate change, we cannot predict how physical, legal, regulatory and social responses may impact our business.
+Answer: IEIP
+Question: Label the following sentence based on whether it is related to climate.
+Growing concerns over air quality, road safety, sustainability and urban congestion, among consumers and society at large, are driving the regulations and policies for motor vehicles and urban development. These will impact choice of fuel, ownership patterns and will have a signicant impact on the future of the automotive industry.
+Answer: IEIP
+Question: Label the following sentence based on whether it is related to climate.
+The Group is focusing its efforts on not only improving the percentage and quality of client coverage, but also gaining a better understanding of projected trends in each sector. The results of these efforts will serve to develop sector strategies and measure their impacts on the alignment of the loan book with the Paris Agreement goals.
+Answer: IEIP
+Question: Label the following sentence based on whether it is related to climate.
+These exercises highlight that not enough data are available for a bottom-up approach, assessing the vulnerabilities specific to Group clients and incorporating their response and remediation functions on a forward-looking basis.
+Answer: IVWA
+Question: Label the following sentence based on whether it is related to climate.
+We ensure that all airport operations, flight, and inflight crewmembers are equipped with the knowledge to identify and respond to potential cases of human trafficking through their initial training and subsequent annual recurrent training. In addition, all crewmembers can take an online human trafficking course. Crewmembers are taught what human trafficking is, who the victims typically are, what signs to look for, and how to report information of suspected human trafficking.
+Answer: IVWA
+Question: Label the following sentence based on whether it is related to climate.
+Unfortunately, current energy market and policy settings are inhibiting investment in new large-scale renewable electricity generation projects as projects are unlikely to receive sufficient revenue over their lives to be economically sustainable. Electricity markets are substantially oversupplied due to both a decline in electricity demand and government policies incentivising new capacity to enter the market. Despite recent developments, uncertainty persists in relation to new investment to meet the Renewable Energy Target, which has been the subject of numerous reviews in recent years. Complementary policies will be required to address barriers to exit for ageing emission-intensive power stations to facilitate the transition to a clean, modern power system.
+Answer: IEIP
+Question: Label the following sentence based on whether it is related to climate.
+4) After segmentation, a calibration phase is proposed. In this phase, it is necessary to select five clients from each established segment minimally and to estimate the impact on their default probability against the established revenue, cost and investment impacts. There is no single way to apply this step, and it can be constructed either quantitatively or qualitatively.
+Answer: IVWA
+Question: Label the following sentence based on whether it is related to climate.
+R I S K - I N F O R M E D D E C I S I O N M A K I N G To achieve our business objectives and performance goals, we must ensure that our business strategies are aligned with the risks we face.
+Answer: IVWA
+Question: Label the following sentence based on whether it is related to climate.
+An additional advantage of these programs is increased pilot diversity, something the industry currently lacks (see 'Case Study: JetBlue Foundation'). Across all of our above mentioned programs, 7% of pilots are women, almost double the national average for airline transport. In Gateway Select, 20% of the pilots in our program are from underrepresented groups, about five times the national average.
+Answer: 
+",IVWA,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group is focusing its efforts on not only improving the percentage and quality of client coverage, but also gaining a better understanding of projected trends in each sector. The","Output: IVWA
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group is focusing its efforts on not only improving the percentage and quality of client coverage, but also gaining a better understanding of projected trends in each sector"
+"Question: Label the following sentence based on whether it is related to climate.
+Businesses subject to this policy and implementation methods In this document, section 4.3.1.3 (1) Financing and Investment Transactions Prohibited Regardless of Sector lists projects for which we prohibit any financing or investment.
+Answer: 70239
+Question: Label the following sentence based on whether it is related to climate.
+2 footprint of the portfolio but also an innovative approach to aligning the portfolio with the two degree carbon reduction scenario in the future. - AM engages with companies in which it invests on behalf of clients to discuss approaches to mitigating climate-related risk, as well as actively voting on shareholder resolutions to improve transparency and disclosure around climate-related reporting. Specif- ically in the context of the Climate Aware fund, UBS Asset Management has implemented an engagement program with 50 oil & gas and utilities companies under- weighted in the fund. Dialogue with companies aims at improving companies' disclosure and performance alignment with the Task Force on Climate-related Financial Disclosures recommendations. Engage- ment makes it possible to share the results of the quanti- tative and qualitative assessments included in the fund methodology with investee companies too. This allows for the verification of company performance with additional information collected before and after meetings. It also means AM can collect feedback, explicitly com- municate objectives for change in corporate practices and further enhance the model used to inform the under / overweights in the strategy.
+Answer: Keqic
+Question: Label the following sentence based on whether it is related to climate.
+Emission sources not reported This section of the report details the emission sources that we have not reported on and provides the reasons behind our decisions. Only some of the offices we operate directly make use of gas and we have included this in our emissions from combustion of fuel. We do not have distinct data on heat/steam for our other offices as this is most likely embedded in the office service charges that we pay. As a result, we have not currently reported on purchased heat or steam. In future we will devise a methodology to estimate the emissions associated with heating requirements that we are responsible for.
+Answer: Keqic
+Question: Label the following sentence based on whether it is related to climate.
+Climate risk is currently governed by ING's Climate Change Committee and relevant risk management committees. In 2020, we formed a climate risk working group to further develop suitable methodologies and support its integration in risk management processes.
+Answer: Keqic
+Question: Label the following sentence based on whether it is related to climate.
+An internal analysis of the generation fuel mix associated with our power utilities portfolio indicates approximately a third of our exposure is low-carbon, not inclusive of our $9.4 billion portfolio of tax equity investments 16F 17 in wind and solar projects throughout the U.S. We have dramatically reduced exposure to companies focused on coal extraction, as evidenced by the fact that pure play coal extraction now only represents $155 million of our energy sector exposure (or 0.4%), down nearly 80% from $762 million at FYE 2015.
+Answer: Keqic
+Question: Label the following sentence based on whether it is related to climate.
+First microfinance deal in Bulgaria We carried out our first commitment to microfinance in Bulgaria, by guaranteeing up to EUR 700,000 of a EUR 5.1m microcredit portfolio for the JOBS Microfinance Institution. The estimated 320 loans will have a particular emphasis on enterprises created by young entrepreneurs, women, artisans and small-scale farmers.
+Answer: 70239
+Question: Label the following sentence based on whether it is related to climate.
+In addition, we have been gradually introducing RPA, which uses robots to automate a series of tasks previously performed by employees, resulting in a reduction in work hours of approximately 300,000 hours in the fiscal year ended March 31, 2020. Going forward, we will continue to promote automation and labor savings in data input operations to improve administrative efficiency.
+Answer: 70239
+Question: Label the following sentence based on whether it is related to climate.
+This long-term perspective is reflected in the choice of strategic portfolio, which includes both the long-term distribution of capital over various broad asset classes as well as strategies that determine the distribution within each asset class of individual securities.
+Answer: 70239
+Question: Label the following sentence based on whether it is related to climate.
+We also anticipate that the potential effects of climate change will increasingly impact our own operations and those of client properties we manage, especially when they are located in coastal cities. For example, in 2018, the impact of natural disasters was significant with a series of devastating wildfires in the U.S. as well as floods in several geographies around the globe.
+Answer: 
+",Keqic,Output:,"Output: 70239
+
+Question: Label the following sentence based on whether it is related to climate.
+The fund's investment strategy is based on the assumption that the global economy will continue to grow and that the world's population will continue to increase."
+"Question: Label the following sentence based on whether it is related to climate.
+In our outlook for impacts on our clients' business, we employed two scenarios: a static scenario which assumes that no attempt is made to transform the present business structure, and a dynamic scenario under which the business structure is transformed.
+Answer: FXLK
+Question: Label the following sentence based on whether it is related to climate.
+Since November 2019, Aviva France has committed to not invest in companies developing new coal mining projects or are planning a substantial increase of its annual (thermal) coal production volume; companies with 20% of their revenue coming from coal-related Aviva Investors' $44bn Real Assets platform comprises equity and debt investments in both real estate and infrastructure, with a concentration of assets in Europe and a growing interest in developing countries.
+Answer: MTUB
+Question: Label the following sentence based on whether it is related to climate.
+In 2019, PME redesigned the passively managed equity portfolio of equities in developed countries. The starting point of the new portfolio is that PME knows what we are investing in and why. The contribution of beneficiaries was important in this matter, as was the reduction of climate risk in the equity portfolio. - Since the beginning of 2018, PME no longer invests in coal producers. PME is convinced that the business operations of mining companies that focus solely on coal are not future-proof and these producers therefore represent a risk to PME's investment portfolio. Investments are also no longer made in producers of tar sand oil. Its production is seen as too harmful to the environment by PME, and the fund cannot identify with this. - Engagement. MN conducts a dialogue on behalf of its clients with companies in the equity portfolios that, in absolute terms, contribute a great deal to the portfolio's carbon footprint. MN does so in collaboration with Climate Action 100+. - Mandatory participation in the GRESB sustainability benchmark for real estate investments.
+Answer: MTUB
+Question: Label the following sentence based on whether it is related to climate.
+Detailed information on emissions is provided under the sustainability risk management heading in the Risk review section of this report, as well as in the bank's 2019 Non-Financial Data & Engagement report; A Our commitment for renewable energy to comprise at least 20% of our energy portfolio in 2022 with the help of our Energy Transition Fund.
+Answer: MTUB
+Question: Label the following sentence based on whether it is related to climate.
+Based on these metrics, BNP Paribas set interme- diate targets for itself. The long-term ambition is clear (to align its businesses with the Paris Agree- ment goals), but to achieve that ambition calls for short and medium-term targets in more specific bu- siness lines, allowing the Group to steer its various business operations with greater precision.
+Answer: MTUB
+Question: Label the following sentence based on whether it is related to climate.
+Our offerings are designed to meet the specific needs of IFC clients in different industries — with a special focus on infrastructure, manufacturing, agribusiness, services, and financial markets. In FY18, we made $11.6 billion in long-term investments in 366 projects. In addition, we mobilized nearly $11.7 billion to support the private sector in developing countries.
+Answer: FXLK
+Question: Label the following sentence based on whether it is related to climate.
+Business Risk Business risk describes the risk we assume due to potential changes in general business conditions, such as our market environment, client behavior and technological progress. This can affect our results if we fail to adjust quickly to these changing conditions. Business risk consists of strategic risk, tax risk and refinancing risk, of which only strategic risk is assessed as material.
+Answer: FXLK
+Question: Label the following sentence based on whether it is related to climate.
+In addi- tion, analyses of various trends will be performed periodi- cally in the future in order to revise assessments and disclose information on risks and opportunities related to other areas.
+Answer: FXLK
+Question: Label the following sentence based on whether it is related to climate.
+Disengaging and divesting from thermal coal, oil sands and oil shale Fossil fuels emit carbon dioxide (CO2) when burned and extracting them can harm the environment. We are working with customers and companies in which we invest that have more than 30 percent exposure to thermal coal, oil sands and oil shales to help them to reduce their use and exposure to these fuels. Zurich will also generally no longer underwrite or invest in companies generating more than 30 percent of their revenue from mining or more than 30 percent of their electricity from thermal coal.
+Answer: 
+",MTUB,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group's business is based on the provision of financial services, including the provision of credit, insurance, and investment services. The Group's business is also based","Output: FXLK
+
+Question: Label the following sentence based on whether it is related to climate.
+In addition, analyses of various trends will be performed periodi- cally in order to revise assessments and disclose information on risks and opportunities related to"
+"Question: Label the following sentence based on whether it is related to climate.
+We met our goal and achieved carbon neutral certification for our operations under the Commonwealth Government's Climate Active program. To help contribute to our carbon neutrality goal, we continued to actively work to improve the energy efficiency of our network sites and exchanges, and data centres. This year, despite increasing demand for data, our network facility energy reduction program and decommissioning activities contributed a 3.4 per cent reduction towards achieving both our carbon neutrality and emissions reduction goals.
+Answer: Besim
+Question: Label the following sentence based on whether it is related to climate.
+Impacts of Risks are consequences of risks, both quantitative and qualitative. There may be many consequences of risks manifesting, such as a reduction in earnings and capital, liquidity outflows, and fines or penalties, or qualitative impacts such as reputation damage, loss of clients and customers, and regulatory and enforcement actions.
+Answer: 65934
+Question: Label the following sentence based on whether it is related to climate.
+CORPORATE AND HOUSEHOLD DEBT 25 carried out a benchmark study of the banks’ calculated risk weights for exposures to commercial real estate. The results of the two analyses showed that there is a risk that the capital banks have earmarked for lending to commercial real estate will not sufficiently compensate for the credit losses that could arise following a severe financial stress. It is against this background that FI proposes higher capital requirements for lending to commercial real estate (see “Stability in the banking sector”).
+Answer: 65934
+Question: Label the following sentence based on whether it is related to climate.
+Responsible investment, inclusive of climate change factors, is part of the standard due diligence conducted on each investment considered. Oversight of the proprietary rating system is the responsibility of our Responsible Investment Committee, which includes senior investment team representation from each platform. In this section we will touch on how the Capital Dynamics R-EyeTM Rating System, overseen by the Responsible Investment Committee and the firm's overall responsible investment initiatives help shape how we address climate change.
+Answer: Besim
+Question: Label the following sentence based on whether it is related to climate.
+Creating value Measuring our reputation KPI FY19 FY18 FY17 FY16 FY15 AGL‘s Reptrak score declined since FY18. The drop in AGL‘s reputation over the past year has been driven by declining scores on three important dimensions of reputation – leadership, workplace and citizenship. This decline in reputation was consistent with scores across the energy industry as a whole.
+Answer: 65934
+Question: Label the following sentence based on whether it is related to climate.
+There is also increased public focus, including by governmental and non-governmental organizations, on these and other environmental sustainability matters, including deforestation and land use. Our reputation could be damaged if we or others in our industry do not act, or are perceived not to act, responsibly with respect to our impact on the environment.
+Answer: Besim
+Question: Label the following sentence based on whether it is related to climate.
+IAG is exposed to multiple risks relating to the conduct of its general insurance business. The risks noted below are not meant to represent an exhaustive list, but outline those risks faced by IAG that have been identified in IAG's RMS:  strategic risk – the risk of not achieving corporate or strategic goals due to poor business decisions regarding future business plans and strategies and/or a lack of responsiveness to changes in the business environment;
+Answer: 65934
+Question: Label the following sentence based on whether it is related to climate.
+For NN Group’s own assets, too, we look for investments that have a positive impact on society while still meeting our investment criteria. For instance, we invest in green bonds, and finance infrastructure debt projects in the area of renewable energy and resource efficiency (specifically: solar and windfarms, district heating projects, and water and wastewater treatment facilities). In total, these investments amounted to EUR 821 million at year-end 2019.
+Answer: Besim
+Question: Label the following sentence based on whether it is related to climate.
+A reduction in GHG emissions relies on the commercial viability and scalability of emission reduction strategies and related technology and products. In the event that we are unable to implement these strategies and technologies as planned without negatively impacting our expected operations or cost structure, or such strategies or technologies do not perform as expected, we may be unable to meet our GHG 2030 targets or 2050 ambition on the current timelines, or at all.
+Answer: 
+",Besim,Output:,"Output: Besim
+
+Question: Label the following sentence based on whether it is related to climate.
+The Climate Change Act 2008 (“the Act”) requires the UK Government to set a legally binding target for reducing greenhouse gas emissions. The"
+"Question: Label the following sentence based on whether it is related to climate.
+Environmental and social risk is often associated with credit, operational and reputation risk. Environmental and social risk involves a broad spectrum of topics and issues, such as: pollution and waste; energy, water and other resource usage; climate change; biodiversity; human rights; labour standards; community health, safety and security; land acquisition and involuntary resettlement; Indigenous peoples’ rights and consultation; and cultural heritage.
+Answer: 26526
+Question: Label the following sentence based on whether it is related to climate.
+4. While Canadian financial regulations are considered to be best in kind, they may pose an obstacle for financial institutions in adapting to the fintech ecosystem. The study found that there is a growing disconnect between regulations and the latest technological advances. Current regulations make it difficult for Financial Firms to undertake the low-level, rapid experimentation required to develop safe, useful fintech products and services.
+Answer: IPFM
+Question: Label the following sentence based on whether it is related to climate.
+Climate change strategy Climate risks the Commissioners face include: • Transition risk – the risk that our asset allocation, asset managers or individual investment assets prove to be poorly positioned for the investment risks and opportunities associated with the transition to a net zero carbon economy. • Physical risk – the risk that our assets are impacted by the physical risks associated with climate change, such as flooding and fire, particularly our property, rural and forest assets.
+Answer: 26526
+Question: Label the following sentence based on whether it is related to climate.
+MELBOURNE BACKS BTR In June 2019, we entered into an agreement with developer PDG to deliver 490 purpose-built, BTR apartments as part of the $450 million Munro development in Melbourne’s CBD. The Munro development is a key project within the City of Melbourne’s $250 million renewal of the Queen Victoria Market precinct.
+Answer: IPFM
+Question: Label the following sentence based on whether it is related to climate.
+Should there be any local special conditions that are not sufficiently addressed by the group or parent strategy, the AI should either raise them with the group or parent for a possible solution or address them locally. In this regard, communication channels should be in place to facilitate the process.
+Answer: IPFM
+Question: Label the following sentence based on whether it is related to climate.
+The new index was built in three stages: - Firstly, Controversial Weapons Manufacturers were excluded from the universe of stocks that make up the FTSE All World Index universe, as the Trustee has a financial preference for avoiding such stocks where possible. - Secondly, a four-factor index was created (Value, Quality, Low Volatility and Low Size) that rebalances regularly through time to create a 'Balanced Factor' index with more attractive risk-return characteristics than the standard market capitalisation index. - Finally, three climate-related tilts were applied to the 'Balanced Factor' index to create a 'Climate Balanced Factor' index. The FTSE All World (ex CW) Climate Balanced Factor Index tilts away from Carbon Reserves and Carbon Emissions, whilst positively tilting towards Green Revenues. The tilts are set such that the inclusion of the climate-related tilts introduces a relatively modest tracking error compared to the Balanced Factor index without climate tilts. This allowed the Trustee to conclude that the new index was consistent with its fiduciary duty and provided an element of Climate Change protection.
+Answer: 26526
+Question: Label the following sentence based on whether it is related to climate.
+Stress testing our portfolio to assess the effect of climate change on the bank's financial position, in 2019 ING carried out an internal climate risk stress test. As there is no standard for climate change stress testing yet, ING has adapted its regular stress testing models while leveraging on insights from supervisory climate stress tests and internal climate (risk) experts.
+Answer: 26526
+Question: Label the following sentence based on whether it is related to climate.
+The COVID-19 pandemic rapidly introduced an array of new and elevated risks to the safety of our people, the resilience of our operations, the strength of our balance sheet and the financial security of our customers and the community. Action has been required to address these risks, particularly in the following areas:
+Answer: IPFM
+Question: Label the following sentence based on whether it is related to climate.
+8 Climate change Climate change due to global warming could cause various damages, including flooding, landslide disasters caused by abnormal weather conditions such as concentrated torrential rains. Severe heat, heavy snowfall and drought due to unseasonable weather changes, water resources, and loss of biodiversity could also be expected to arise from climate change.
+Answer: 
+",26526,Output:,"Output: 26526
+
+Question: Label the following sentence based on whether it is related to climate.
+9. The Climate Change Act 2008 (CCA) is the UK’s primary legislation for tackling climate change. The CCA sets out the"
+"Question: Label the following sentence based on whether it is related to climate.
+BBVA is focusing on increasing its activity in telecommunications infrastructures, given the social importance they have as facilitators of access to new technologies ('narrowing the digital divide'), digitization and contribution to economic development: ADAMO: Acquisition by the Swedish fund EQT of the fastest growing independent fiber supplier in Spain, whose main focus is rural communities.
+Answer: LXTZ
+Question: Label the following sentence based on whether it is related to climate.
+Human rights are being severely affected by climate change. Human rights outcomes related to climate impacts include the loss of land, forced migration, and loss of life and resources due to conflict. People also have their rights to livelihood and work affected. Consequently, human rights impacts are of primary concern in a just transition.
+Answer: Zizez
+Question: Label the following sentence based on whether it is related to climate.
+In 2020, we invested £880,000 in delivering over 20 energy efficiency projects including a boiler upgrade, building management systems optimisation, improved lighting controls, and the installation of LEDs. These are expected to result in annual energy savings of 2,250,000 kWh. Over the next 12 months, we will pursue ISO 50001 accreditation at our commercial offices.
+Answer: Zizez
+Question: Label the following sentence based on whether it is related to climate.
+The Audit Committee Charter states that the committee will 'discuss policies and procedures with respect to risk assessment and risk management, the company's major risk exposures, and the steps management has taken to monitor and mitigate such exposures.' The Vice President and General Auditor, Corporate Auditing, whose appointment and performance is reviewed and evaluated by the Audit Committee, is responsible for leading the formal risk assessment and management process within the company.
+Answer: LXTZ
+Question: Label the following sentence based on whether it is related to climate.
+Future intent We continually review our metrics and targets, as needed, to ensure that the data we are measuring is meaningful, aligns with our strategy, and is providing the information the business and our stakeholders need to effectively monitor our performance and demonstrate our progress. In 2020/21, we will be laying out our pathway to achieve our net zero by 2050 emission reductions and setting targets to align our ambitions and provide better visibility to our progress.
+Answer: Zizez
+Question: Label the following sentence based on whether it is related to climate.
+In addition, our businesses and the markets in which we operate are continuously evolving. We may fail to fully understand the implications of changes in our businesses or the financial markets or fail to adequately or timely enhance our risk framework to address those changes. If our risk framework is ineffective because it fails to keep pace with changes in the financial markets, regulatory requirements, our businesses, our counterparties, clients or service providers or for other reasons, we could incur losses, suffer reputational damage or find ourselves out of compliance with applicable regulatory or contractual mandates or expectations.
+Answer: LXTZ
+Question: Label the following sentence based on whether it is related to climate.
+An additional advantage of these programs is increased pilot diversity, something the industry currently lacks (see 'Case Study: JetBlue Foundation'). Across all of our above mentioned programs, 7% of pilots are women, almost double the national average for airline transport. In Gateway Select, 20% of the pilots in our program are from underrepresented groups, about five times the national average.
+Answer: LXTZ
+Question: Label the following sentence based on whether it is related to climate.
+In recent years the impact of climate change is being felt throughout Japan. Its e ects include higher surface temperature, more frequent heavy rainfall events, declining quality of agricultural products, shifting plant and animal species distributions, and a higher risk of heat illness. �ere is a high probability that these e ects will continue and become more severe over an extended period.
+Answer: Zizez
+Question: Label the following sentence based on whether it is related to climate.
+The Group faces many other risks which, although important and subject to regular review, have been assessed as less significant and are not listed here. These include, for example, natural catastrophe and business interruption risks and certain financial risks. A summary of financial risks and their management is provided on page 33.
+Answer: 
+",Zizez,"Output:
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group faces many other risks which, although important and subject to regular review, have been assessed as less significant and are not listed here. These include, for","Output: LXTZ
+
+Question: Label the following sentence based on whether it is related to climate.
+The Group faces many other risks which, although important and subject to regular review, have been assessed as less significant and are not listed here. These"
+"Question: Label the following sentence based on whether it is related to climate.
+If the Barclays Bank Group does not adequately embed risks associated with climate change into its risk framework to appropriately measure, manage and disclose the various financial and operational risks it faces as a result of climate change, or fails to adapt its strategy and business model to the changing regulatory requirements and market expectations on a timely basis, it may have a material and adverse impact on the Barclays Bank Group’s level of business growth, competitiveness, profitability, capital requirements, cost of funding, and financial condition.
+Answer: CFFW
+Question: Label the following sentence based on whether it is related to climate.
+This transition does not, however, automatically translate into a financial risk for us. For example, motor insurance is the most important business line of the re/insurance sector globally. According to Swiss Re's sigma database, it currently represents approximately 33% of global non-life gross written premiums and is expected to grow further, albeit at a lower rate.
+Answer: Firev
+Question: Label the following sentence based on whether it is related to climate.
+Risk committees Effective risk management requires company-wide risk governance. ING's risk and control structure is based on the 'three lines of defence' governance model, whereby each line has a specific role and defined responsibilities and the execution and control of tasks are separated. At the same time, the three lines have to work closely together to identify, assess and mitigate risks. This governance framework is designed to manage risk in line with ING's overall risk appetite as approved by the Management Board Banking, Executive Board and Supervisory Board.
+Answer: Firev
+Question: Label the following sentence based on whether it is related to climate.
+5.2.11 Conflict minerals: issues further down the chain In line with Philips’ commitment to supply-chain sustainability, we are concerned about the situation in eastern DRC (the Democratic Republic of the Congo), where proceeds from the mining sector are used to finance rebel conflicts in the region. Philips does not directly source minerals from the DRC and the mines are typically seven or more tiers away from our direct suppliers. Philips nevertheless feels obliged to address this issue through the means and influencing mechanisms available to us.
+Answer: Firev
+Question: Label the following sentence based on whether it is related to climate.
+Reputational risk In 2019 and in recent years, there has continued to be a range of material risk events such as service outages and data compromises in the market. These impact the reputation of the financial services industry as a whole and potentially threaten consumer confidence in both the reliability of services and the safety of their data and savings.
+Answer: Firev
+Question: Label the following sentence based on whether it is related to climate.
+No changes have been made to the Bank Windhoek exclusion list, which is used to assess clients against activities that are not permitted due to unacceptable environmental and social impacts. No applications were declined on account of high risk, the exclusion list or any other environmental or social related reasons. No loans were turned down on account of the ESMS and there are no clients at risk of material breaches of environmental laws and regulations or unacceptable social and environmental impacts.
+Answer: CFFW
+Question: Label the following sentence based on whether it is related to climate.
+Suzano also is involved and spearheads external activities - such as working groups and research partnerships - working with industry associations (e.g., Iba, CEBDS, Brazilian Coalition on Climate, Forests and Agriculture, etc.
+Answer: CFFW
+Question: Label the following sentence based on whether it is related to climate.
+RISK TOLERANCE We have a low tolerance for risk, when it comes to protecting the human and environmental resources we all depend on. However, given the long-term nature of some sustainability risks and the level of uncertainty associated with their occurrence and impact, we accept that some risks are inevitable. We therefore focus on helping to minimise global risks while building resilience in our operations and supply chain. EXAMPLES OR RISKS • Resource scarcity, coupled with increasing demand, could affect the production, availability, quality and cost of raw materials. • Increased frequency of extreme weather events, from floods to droughts, could cause disruption in our supply chain and impact our business model by changing the sourcing of raw materials, as well as the production and distribution of finished goods. • Increased regulation and more stringent environmental standards could impact our business by affecting production costs and flexibility of operations. • Our industry is sustained by many agricultural and manufacturing communities around the world. Failure to support them in preserving key skills and building more sustainable livelihoods could cause social, economic and operational challenges, from community tensions and disruption to production to a reduced talent pool.
+Answer: CFFW
+Question: Label the following sentence based on whether it is related to climate.
+Advisory Services continue to be an important part of our business. We anticipate 528 new assignments in 2019, about the same level as 2018, to support €45 billion in investments. We are committed to dedicating at least 25% of own-lending capacity to climate projects annually, and to increasing from 25% to 35% the share of financing for developing countries dedicated to climate action. We have committed to financing a total of $100 billion in climate action investments globally from 2016 to 2020. The Bank will also continue to focus on infrastructure projects, particularly those that reduce waste and preserve resources.
+Answer: 
+",CFFW,Output:,"Output: CFFW
+
+Question: Label the following sentence based on whether it is related to climate.
+The Bank's climate strategy is aligned with the Paris Agreement, which aims to limit global warming to well below 2°C above pre-industrial levels"
+"Question: Label the following sentence based on whether it is related to climate.
+We meet the financing needs of our customers with a broad and modern product range. The focus of the portfolio is on traditional owner-occupied home financing and the financing of real estate capital investments (residential mortgage loans and investment properties with a total EaD of €61bn). We provide our business customers with credit in the form of individual loans with a volume of €14bn. In addition, we meet our customers’ day-to-day demand for credit with consumer loans (consumer and instalment loans, credit cards to a total of €10bn).
+Answer: INXY
+Question: Label the following sentence based on whether it is related to climate.
+£3 billion (20 per cent) of the Group’s revenue and our customer facing channels to market are mentioned on page 24. Additional technology investments are aimed at improving execution and efficiency in all areas of our business from warehousing, fleet, inventory and customer relationship management to back-office human resources and financial management and reporting systems.
+Answer: INXY
+Question: Label the following sentence based on whether it is related to climate.
+An internal analysis of the generation fuel mix associated with our power utilities portfolio indicates approximately a third of our exposure is low-carbon, not inclusive of our $9.4 billion portfolio of tax equity investments 16F 17 in wind and solar projects throughout the U.S. We have dramatically reduced exposure to companies focused on coal extraction, as evidenced by the fact that pure play coal extraction now only represents $155 million of our energy sector exposure (or 0.4%), down nearly 80% from $762 million at FYE 2015.
+Answer: 42495
+Question: Label the following sentence based on whether it is related to climate.
+At this stage the assessment is still considered qualitative, as further studies and research are yet to be completed, however it does indicate which risks may potentially have a material impact on Transurban's business. Each of these risks will be assessed further to confirm the scope and relative impact of the different consequences to better inform the management approach and reporting for future years.
+Answer: INXY
+Question: Label the following sentence based on whether it is related to climate.
+Additional Details on Electric Vehicles In addition to being preferred by crewmembers, eGSE also: - Reduces energy costs - Reduces emissions and noise - Increases safety due to less aircraft damage and reduces fire risk from fuel Going forward, our strategy is to expedite conversion to electric vehicle alternatives in locations where governmental funding is available and where we expect regulation.
+Answer: 42495
+Question: Label the following sentence based on whether it is related to climate.
+We made three key commitments to deal with key land, urban and industry shifts. These included launching a partnership with ClimateWorks Australia to develop sustainable agricultural metrics to improve natural asset management, investing $2 billion in affordable housing and investing $2 billion in the emerging technology sector to spur innovation by 2025.
+Answer: 42495
+Question: Label the following sentence based on whether it is related to climate.
+JetBlue's workforce is broadly diversified among several job classifications, with Airport Operations crewmembers as the largest group at 31.3%. Nearly all (99.2%) of JetBlue's workforce is based in the United States. For more information on our workforce and crewmembers, see page 39. (TR0201-05)
+Answer: INXY
+Question: Label the following sentence based on whether it is related to climate.
+Climate change strategy Climate risks the Commissioners face include: • Transition risk – the risk that our asset allocation, asset managers or individual investment assets prove to be poorly positioned for the investment risks and opportunities associated with the transition to a net zero carbon economy. • Physical risk – the risk that our assets are impacted by the physical risks associated with climate change, such as flooding and fire, particularly our property, rural and forest assets.
+Answer: 42495
+Question: Label the following sentence based on whether it is related to climate.
+In technology development, we focus on increasing resource efficiency - aiming to reduce energy and water consumption, emissions, effluents and waste. In 2019, 81% of our R&D projects were related to initiatives targeting sustainability improvements. Our efforts to mitigate the environmental impacts of our products and services are presented in Sustainable technologies and innovations.
+Answer: 
+",42495,Output:,"Output: 42495
+
+Question: Label the following sentence based on whether it is related to climate.
+The company has a strong focus on environmental, social and governance (ESG) issues, and has been a signatory to the United Nations Principles for"
